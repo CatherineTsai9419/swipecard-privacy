@@ -18,10 +18,22 @@
   p, li { color:#222; }
   ul { padding-left:1.3em; }
   .table-wrap { overflow-x:auto; -webkit-overflow-scrolling:touch; }
-  table { width:100%; min-width:560px; border-collapse:collapse; background:var(--card); border-radius:10px; overflow:hidden; font-size:.95rem; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border-radius:10px; overflow:hidden; font-size:.95rem; }
   th, td { text-align:left; vertical-align:top; padding:10px 12px; border-bottom:1px solid var(--line); }
   th { background:#EFEFEF; font-weight:600; }
   tr:last-child td { border-bottom:none; }
+  /* 手機：表格改成一列一張卡片，不用左右滑 */
+  @media (max-width: 640px) {
+    table, tbody, tr, td { display:block; width:100%; }
+    table { background:none; }
+    thead { display:none; }
+    tr { background:var(--card); border-radius:12px; padding:6px 14px; margin-bottom:12px; }
+    td { border-bottom:1px solid var(--line); padding:8px 0; }
+    td:last-child { border-bottom:none; }
+    td::before { content:attr(data-label); display:block; font-size:.8rem; color:var(--grey); font-weight:600; margin-bottom:2px; }
+    td:first-child { font-weight:700; font-size:1.02rem; }
+    td:first-child::before { display:none; }
+  }
   .note { background:var(--card); border:1.5px solid var(--ink); border-radius:12px; padding:14px 16px; }
   a { color:inherit; text-underline-offset:3px; }
   footer { margin-top:48px; color:var(--grey); font-size:.85rem; }
@@ -43,10 +55,10 @@
   <table>
     <thead><tr><th>資料</th><th>何時取得</th><th>用途</th><th>是否離開你的手機</th></tr></thead>
     <tbody>
-      <tr><td>位置</td><td>你允許定位並使用 App 時</td><td>查詢附近可刷卡的店家</td><td>座標先四捨五入到約 100 公尺，再傳到本 App 的伺服器向地圖服務查詢。伺服器只暫存查到的店家清單（最多 7 天，用來加快速度），不保存可識別你身分的資料。</td></tr>
-      <tr><td>搜尋文字</td><td>你輸入店家名稱或類別時</td><td>查詢店家</td><td>以同樣方式送出查詢；搜尋記錄只存在手機。</td></tr>
-      <tr><td>我的卡片（卡名、發卡組織）</td><td>你設定時</td><td>推薦回饋較高的卡</td><td>不會，只存在手機。</td></tr>
-      <tr><td>問題回報內容</td><td>你主動送出回報時</td><td>處理你回報的問題</td><td>會透過你手機的郵件 App 寄出，我們會收到信件內容與你的電子郵件地址。</td></tr>
+      <tr><td data-label="資料">位置</td><td data-label="何時取得">你允許定位並使用 App 時</td><td data-label="用途">查詢附近可刷卡的店家</td><td data-label="是否離開你的手機">座標先四捨五入到約 100 公尺，再傳到本 App 的伺服器向地圖服務查詢。伺服器只暫存查到的店家清單（最多 7 天，用來加快速度），不保存可識別你身分的資料。</td></tr>
+      <tr><td data-label="資料">搜尋文字</td><td data-label="何時取得">你輸入店家名稱或類別時</td><td data-label="用途">查詢店家</td><td data-label="是否離開你的手機">以同樣方式送出查詢；搜尋記錄只存在手機。</td></tr>
+      <tr><td data-label="資料">我的卡片（卡名、發卡組織）</td><td data-label="何時取得">你設定時</td><td data-label="用途">推薦回饋較高的卡</td><td data-label="是否離開你的手機">不會，只存在手機。</td></tr>
+      <tr><td data-label="資料">問題回報內容</td><td data-label="何時取得">你主動送出回報時</td><td data-label="用途">處理你回報的問題</td><td data-label="是否離開你的手機">會透過你手機的郵件 App 寄出，我們會收到信件內容與你的電子郵件地址。</td></tr>
     </tbody>
   </table>
   </div>
