@@ -803,6 +803,273 @@
    "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/common/news/TSBankNews-008346/",
    "networksVerified": true,
    "issuance": ""
+  },
+  {
+   "id": "cathay_world",
+   "bankId": "cathay",
+   "name": "國泰世華世界卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "高端卡：國內 0.6% 小樹點、海外單筆滿 500 元 0.9%；海外累計 30 萬元最高 3.5%；保費最高 1.8%。",
+   "officialUrl": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/world",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "cathay_asiamiles",
+   "bankId": "cathay",
+   "name": "國泰世華亞洲萬里通聯名卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "哩程卡：一般消費每 NT$22–30 累積 1 里（依卡等級），哩程加速器特店最優 NT$10＝1 里。",
+   "officialUrl": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/asia-miles",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "cathay_cashsig",
+   "bankId": "cathay",
+   "name": "國泰世華現金回饋御璽卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "不限通路：國內 0.5%、國外 2% 現金回饋，無上限。",
+   "officialUrl": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cash-rebate-signature",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "cathay_eva",
+   "bankId": "cathay",
+   "name": "國泰世華長榮航空聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "哩程卡：一般消費每 NT$20–30 累積 1 哩（依卡等級），長榮官網購票、海外指定消費最優 NT$10＝1 哩。",
+   "officialUrl": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/eva",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sinopac_daway",
+   "bankId": "sinopac",
+   "name": "永豐DAWAY卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "LINE POINTS 回饋：國內 0.5%、國外 2.5% 無上限；綁 LINE Pay 並達 DAWAY GO 等級，國內最高 8%。",
+   "officialUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWAY.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sinopac_green",
+   "bankId": "sinopac",
+   "name": "永豐現金回饋Green卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "國內 1%、國外 2% 無上限；精選綠色通路（影城、售票、量販、快時尚等）最高 5%。",
+   "officialUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/cashcard.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sinopac_insurance",
+   "bankId": "sinopac",
+   "name": "永豐保倍卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "保費代扣繳 1.2% 現金回饋無上限；一般消費每 30 元 1 點紅利，最高 5 倍。",
+   "officialUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/insurance-card.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sinopac_cashjcb",
+   "bankId": "sinopac",
+   "name": "永豐現金回饋JCB卡",
+   "networks": [
+    "JCB"
+   ],
+   "summary": "國內 1%、國外 2% 無上限；指定網購與百貨最高 5%（需電子帳單＋永豐帳戶自扣）。",
+   "officialUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/cashcardJCB.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sinopac_sport",
+   "bankId": "sinopac",
+   "name": "永豐SPORT卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "一般消費 1% 豐點（需電子帳單），達運動目標再加 1%；指定支付／通路最高 5%。",
+   "officialUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/sportcard.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sinopac_mitsui",
+   "bankId": "sinopac",
+   "name": "永豐MITSUI OUTLET PARK聯名卡",
+   "networks": [
+    "JCB",
+    "VISA",
+    "Mastercard"
+   ],
+   "summary": "MITSUI OUTLET PARK 館內 1% 豐點無上限、館外 0.3%；登錄特選通路 7% 刷卡金。",
+   "officialUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/co-brand/mitsui-outlet-park-card.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sinopac_55688",
+   "bankId": "sinopac",
+   "name": "永豐55688聯名卡",
+   "networks": [
+    "VISA",
+    "Mastercard"
+   ],
+   "summary": "一般消費 1% T Points 無上限；55688 App 綁卡叫車最高 8%；精選通路最高 4%。",
+   "officialUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/co-brand/taxicard.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "fubon_digital",
+   "bankId": "fubon",
+   "name": "富邦數位生活卡",
+   "networks": [
+    "VISA",
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "一般消費 0.5% 無上限；數位通路（網路消費）與海外最高 2%（當月滿 5,000 元）。",
+   "officialUrl": "https://www.fubon.com/banking/Personal/credit_card/all_card/digitallife/digitallife.htm",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "fubon_diamond",
+   "bankId": "fubon",
+   "name": "富邦鑽保卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "一般消費 0.7% 現金回饋無上限；保費另有優惠方案。",
+   "officialUrl": "https://www.fubon.com/banking/Personal/credit_card/all_card/insurance/insurance.htm",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "ubot_linebank",
+   "bankId": "ubot",
+   "name": "聯邦LINE Bank聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "國內 1%、國外 2.5% 刷卡金無上限；指定網購、影音、遊戲、購票再加 3%。",
+   "officialUrl": "https://card.ubot.com.tw/CardDetail/cardDetail601",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "ubot_maicoin",
+   "bankId": "ubot",
+   "name": "聯邦MaiCoin聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "一般消費 0.5% U幣無上限；依前月消費等級加碼 1–4%，最高 4.5%。",
+   "officialUrl": "https://card.ubot.com.tw/CardDetail/cardDetail409",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "ubot_jihe",
+   "bankId": "ubot",
+   "name": "聯邦吉鶴卡",
+   "networks": [
+    "JCB"
+   ],
+   "summary": "日幣消費 2.5% 無上限；國內 1%、其他國外 1%；日本指定商店再加 3%。",
+   "officialUrl": "https://card.ubot.com.tw/CardDetail/cardDetail202",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "ubot_mworld",
+   "bankId": "ubot",
+   "name": "聯邦M世界卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "國內 1%、國外 3% 無上限；指定交通、購票、AI 串流、航空、訂房、旅行社 6 大場景 6%。",
+   "officialUrl": "https://card.ubot.com.tw/CardDetail/cardDetail110",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "ubot_m",
+   "bankId": "ubot",
+   "name": "聯邦M卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "完成任務國內 1%、國外實體 3%（未完成 0.5%／1.5%）；指定場景最高 6%。",
+   "officialUrl": "https://card.ubot.com.tw/CardDetail/cardDetail203",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "ubot_green",
+   "bankId": "ubot",
+   "name": "聯邦綠卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "國內 1%、國外 2% 無上限；綠色消費最高 6%；生活代扣繳 1%。",
+   "officialUrl": "https://card.ubot.com.tw/CardDetail/cardDetail204",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "ubot_traveler",
+   "bankId": "ubot",
+   "name": "聯邦公務人員國民旅遊卡",
+   "networks": [
+    "VISA",
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "國旅卡：一般消費 1.1% 現金回饋無上限（活動加碼最高 1.3%）。",
+   "officialUrl": "https://card.ubot.com.tw/CardTravel/cardTravel",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
   }
  ],
  "rules": [
@@ -3736,6 +4003,639 @@
    "verified": true,
    "checkedAt": "2026-11-09",
    "scope": "全家"
+  },
+  {
+   "id": "cb_world_general",
+   "cardId": "cathay_world",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.6,
+   "rateMax": 0.9,
+   "unit": "小樹點",
+   "tip": "國內 0.6%、海外單筆滿 500 元 0.9%",
+   "steps": [
+    "結帳時刷國泰世華世界卡"
+   ],
+   "conditions": "國內消費 0.6% 小樹點；海外單筆滿 NT$500 享 0.9%。2026/7/1–12/31 海外累計滿 30 萬元再加碼 2.6%（上限 7,800 點）。小樹點 1 點＝1 元。",
+   "sourceUrl": "https://www.cathaybk.com.tw/cathaybk/-/media/fddd4d9d98754438a663ee9129eb345a.pdf",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "cb_am_general",
+   "cardId": "cathay_asiamiles",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.33,
+   "rateMax": 1.82,
+   "unit": "哩程（換算）",
+   "tip": "每 NT$22–30 累積 1 里（依卡等級）",
+   "steps": [
+    "結帳時刷亞洲萬里通聯名卡",
+    "哩程點數轉入亞洲萬里通帳戶"
+   ],
+   "conditions": "一般消費依卡等級 NT$22–30＝1 里；哩程加速器特店最優 NT$10＝1 里（設有上限），生日當月特店 2 倍。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/asia-miles",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2025-12-10",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "cb_cash_general",
+   "cardId": "cathay_cashsig",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 2,
+   "unit": "現金回饋",
+   "tip": "國內 0.5%、國外 2% 無上限",
+   "steps": [
+    "結帳時刷現金回饋御璽卡"
+   ],
+   "conditions": "國外消費 2%、國內消費 0.5% 現金回饋，無通路限制、無回饋上限。",
+   "sourceUrl": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cash-rebate-signature",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "cb_eva_general",
+   "cardId": "cathay_eva",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.33,
+   "rateMax": 2.0,
+   "unit": "哩程（換算）",
+   "tip": "每 NT$20–30 累積 1 哩（依卡等級）",
+   "steps": [
+    "結帳時刷長榮航空聯名卡",
+    "哩程每滿 1,000 哩自動轉入無限萬哩遊帳戶"
+   ],
+   "conditions": "一般消費：極致無限卡 NT$20、無限卡 NT$22、極致御璽／御璽卡 NT$30＝1 哩；長榮官網購票、海外指定消費最優 NT$10＝1 哩。超商等小額支付平台、全聯／大全聯不累積哩程。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.cathaybk.com.tw/cathaybk/personal/credit-card/cards/intro/eva/login/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31",
+   "excludeCategories": [
+    "convenience"
+   ],
+   "excludeBrands": [
+    "全聯",
+    "大全聯"
+   ]
+  },
+  {
+   "id": "sp_daway_general",
+   "cardId": "sinopac_daway",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 2.5,
+   "unit": "LINE POINTS",
+   "tip": "國內 0.5%、國外 2.5%；綁 LINE Pay 達等級最高 8%",
+   "steps": [
+    "把 DAWAY 卡綁定 LINE Pay",
+    "每月達 DAWAY GO 等級才有 LINE Pay 加碼"
+   ],
+   "conditions": "基礎回饋：國內一般消費 0.5%、國外 2.5% LINE POINTS 無上限。當月升等 DAWAY GO 等級，綁 LINE Pay 國內最高 8%、國外最高 10%。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWAY.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-10-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sp_green_spec",
+   "cardId": "sinopac_green",
+   "categories": [],
+   "brands": [
+    "威秀影城",
+    "新光影城",
+    "喜樂時代影城",
+    "寬宏售票",
+    "KKTIX",
+    "拓元售票",
+    "年代售票",
+    "全國電子",
+    "萬家福",
+    "愛買",
+    "UNIQLO",
+    "H&M",
+    "ZARA",
+    "GU",
+    "GAP",
+    "NET",
+    "Q Burger",
+    "麥味登"
+   ],
+   "rateMin": 5,
+   "rateMax": 5,
+   "unit": "現金回饋",
+   "tip": "精選綠色通路 5%（需完成任務）",
+   "steps": [
+    "設定電子帳單與永豐帳戶自動扣繳"
+   ],
+   "conditions": "國內 1%＋綠色通路加碼 4%，加碼每期上限 300 元。通路含影城、售票系統、3C、量販、快時尚、綠色餐廳等，以官網列表為準。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/cashcard.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "綠色通路",
+   "cap": "加碼每期上限 300 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sp_green_general",
+   "cardId": "sinopac_green",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內 1%、國外 2% 無上限",
+   "steps": [
+    "結帳時刷現金回饋 Green 卡"
+   ],
+   "conditions": "國內一般消費 1%、國外 2% 現金回饋無上限；保費代扣繳 1%。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/cashcard.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "sp_ins_bills",
+   "cardId": "sinopac_insurance",
+   "categories": [
+    "bills"
+   ],
+   "brands": [],
+   "rateMin": 1.2,
+   "rateMax": 1.2,
+   "unit": "現金回饋",
+   "tip": "保費代扣繳 1.2% 無上限",
+   "steps": [
+    "用保倍卡代扣繳壽險、產險保費"
+   ],
+   "conditions": "代扣繳保費（壽險＋產險）1.2% 現金回饋無上限，分期交易不適用。一般消費為紅利點數（每 30 元 1 點，最高 5 倍）。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/insurance-card.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "保費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sp_jcb_spec",
+   "cardId": "sinopac_cashjcb",
+   "categories": [],
+   "brands": [
+    "漢神巨蛋",
+    "漢神",
+    "SOGO",
+    "遠東百貨",
+    "蝦皮",
+    "momo購物網",
+    "PChome",
+    "淘寶",
+    "東森購物",
+    "Yahoo購物中心",
+    "friDay購物",
+    "樂天市場",
+    "生活市集",
+    "Amazon",
+    "酷澎"
+   ],
+   "rateMin": 4,
+   "rateMax": 4,
+   "unit": "現金回饋",
+   "tip": "指定網購、百貨最高 4%（需完成任務）",
+   "steps": [
+    "設定電子帳單與永豐帳戶自動扣繳"
+   ],
+   "conditions": "國內 1%＋特選通路加碼 3%，每季加碼上限 1,000 元。日韓泰實體消費每季滿 2 萬元另享 5%（需登錄）。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/cashcardJCB.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "網購・百貨",
+   "cap": "加碼每季上限 1,000 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sp_jcb_general",
+   "cardId": "sinopac_cashjcb",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內 1%、國外 2% 無上限",
+   "steps": [
+    "結帳時刷現金回饋 JCB 卡"
+   ],
+   "conditions": "國內一般消費 1%、國外 2% 現金回饋無上限；保費代扣繳 1%。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/cashcardJCB.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "sp_sport_general",
+   "cardId": "sinopac_sport",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 2,
+   "unit": "豐點",
+   "tip": "一般消費 1%，達運動目標最高 2%",
+   "steps": [
+    "申請電子帳單",
+    "下載大咖 DACARD App 並啟用運動數據"
+   ],
+   "conditions": "基本回饋 1%（0.3%＋電子帳單加碼 0.7%），運動獎勵再加 1%；指定支付／通路最高 5%。1 豐點＝1 元。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/sportcard.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sp_mop_store",
+   "cardId": "sinopac_mitsui",
+   "categories": [],
+   "brands": [
+    "MITSUI OUTLET PARK"
+   ],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "豐點",
+   "tip": "MITSUI OUTLET PARK 館內 1% 無上限",
+   "steps": [
+    "在館內刷聯名卡"
+   ],
+   "conditions": "館內一般消費最高 1%、館外 0.3% 豐點無上限（1 豐點＝1 元）；特選通路 7% 刷卡金需登錄。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/co-brand/mitsui-outlet-park-card.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "館內"
+  },
+  {
+   "id": "sp_mop_general",
+   "cardId": "sinopac_mitsui",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.3,
+   "rateMax": 0.3,
+   "unit": "豐點",
+   "tip": "館外一般消費 0.3%",
+   "steps": [
+    "結帳時刷聯名卡"
+   ],
+   "conditions": "館外一般消費 0.3% 豐點無上限。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/co-brand/mitsui-outlet-park-card.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "sp_taxi_spec",
+   "cardId": "sinopac_55688",
+   "categories": [],
+   "brands": [
+    "台灣大車隊"
+   ],
+   "rateMin": 4,
+   "rateMax": 8,
+   "unit": "T Points",
+   "tip": "55688 App 綁卡叫車最高 8%",
+   "steps": [
+    "在 55688 App 綁定聯名卡付款"
+   ],
+   "conditions": "55688 App 綁卡交易最高 8%；精選通路刷卡基本 1%＋加碼 3%（加碼每月上限 200 T Points）。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/co-brand/taxicard.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "55688 叫車",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sp_taxi_general",
+   "cardId": "sinopac_55688",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "T Points",
+   "tip": "一般消費 1% T Points 無上限",
+   "steps": [
+    "結帳時刷 55688 聯名卡"
+   ],
+   "conditions": "一般消費 1% T Points 無上限。",
+   "sourceUrl": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/co-brand/taxicard.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "fb_dl_online",
+   "cardId": "fubon_digital",
+   "categories": [
+    "online"
+   ],
+   "brands": [],
+   "rateMin": 2,
+   "rateMax": 2,
+   "unit": "現金回饋",
+   "tip": "網路消費最高 2%（當月滿 5,000 元）",
+   "steps": [
+    "在網路通路刷數位生活卡（行動支付實體交易不算）"
+   ],
+   "conditions": "0.5% 無上限＋加碼 1.5%，數位通路與海外加碼合計每期上限 300 元；當月新增消費需滿 5,000 元。",
+   "sourceUrl": "https://www.fubon.com/banking/Personal/credit_card/all_card/digitallife/digitallife.htm",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "數位通路",
+   "cap": "加碼每期上限 300 元"
+  },
+  {
+   "id": "fb_dl_general",
+   "cardId": "fubon_digital",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "現金回饋",
+   "tip": "一般消費 0.5% 無上限",
+   "steps": [
+    "結帳時刷數位生活卡"
+   ],
+   "conditions": "一般消費、保費 0.5% 現金回饋無上限。",
+   "sourceUrl": "https://www.fubon.com/banking/Personal/credit_card/all_card/digitallife/digitallife.htm",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "fb_ins_general",
+   "cardId": "fubon_diamond",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.7,
+   "rateMax": 0.7,
+   "unit": "現金回饋",
+   "tip": "一般消費 0.7% 無上限",
+   "steps": [
+    "結帳時刷富邦鑽保卡"
+   ],
+   "conditions": "2026/12/31 前所有新增一般消費（不含保費）0.7% 現金回饋無上限。",
+   "sourceUrl": "https://www.fubon.com/banking/Personal/credit_card/all_card/insurance/insurance.htm",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ub_lb_spec",
+   "cardId": "ubot_linebank",
+   "categories": [],
+   "brands": [
+    "momo購物網",
+    "PChome",
+    "淘寶",
+    "蝦皮",
+    "酷澎",
+    "Netflix",
+    "Disney+",
+    "CatchPlay",
+    "Spotify",
+    "LINE TV",
+    "KKTV",
+    "KKBOX",
+    "Steam",
+    "PlayStation",
+    "Nintendo",
+    "Blizzard",
+    "Garena",
+    "MyCard",
+    "拓元售票",
+    "KKTIX"
+   ],
+   "rateMin": 4,
+   "rateMax": 4,
+   "unit": "刷卡金",
+   "tip": "指定網購、影音、遊戲、購票 4%",
+   "steps": [
+    "結帳時刷 LINE Bank 聯名卡"
+   ],
+   "conditions": "國內 1%＋指定通路加碼 3%，加碼歸戶每月上限 300 元。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail601",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "網購・影音・遊戲・購票",
+   "cap": "加碼每月上限 300 元",
+   "startsOn": "2026-08-01",
+   "endsOn": "2027-07-31"
+  },
+  {
+   "id": "ub_lb_general",
+   "cardId": "ubot_linebank",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 2.5,
+   "unit": "刷卡金",
+   "tip": "國內 1%、國外 2.5% 無上限",
+   "steps": [
+    "結帳時刷 LINE Bank 聯名卡"
+   ],
+   "conditions": "國內 1%、國外 2.5%、保費 1% 刷卡金回饋無上限。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail601",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-08-01",
+   "endsOn": "2027-07-31"
+  },
+  {
+   "id": "ub_mai_general",
+   "cardId": "ubot_maicoin",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 4.5,
+   "unit": "U幣",
+   "tip": "一般消費 0.5%，依前月消費等級最高 4.5%",
+   "steps": [
+    "結帳時刷 MaiCoin 聯名卡"
+   ],
+   "conditions": "基本 0.5% U幣無上限；前月消費 1–1 萬元加碼 1%（上限 300）、1–3 萬元加碼 2%（上限 600）、3 萬元以上加碼 4%（上限 1,200）。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail409",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-04-22",
+   "endsOn": "2027-04-30"
+  },
+  {
+   "id": "ub_jihe_general",
+   "cardId": "ubot_jihe",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "刷卡金",
+   "tip": "國內 1% 無上限；日幣消費 2.5%",
+   "steps": [
+    "結帳時刷吉鶴卡"
+   ],
+   "conditions": "國內一般消費 1%、日幣消費 2.5%、其他外幣 1%，皆無上限。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail202",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ub_mw_spec",
+   "cardId": "ubot_mworld",
+   "categories": [],
+   "brands": [
+    "中華航空",
+    "長榮航空",
+    "星宇航空",
+    "台灣虎航"
+   ],
+   "rateMin": 6,
+   "rateMax": 6,
+   "unit": "刷卡金",
+   "tip": "航空、訂房、旅行社等 6 大場景 6%",
+   "steps": [
+    "結帳時刷聯邦 M 世界卡"
+   ],
+   "conditions": "指定 6 大場景（交通、行程購票、AI 工具與串流、航空、旅遊訂房、旅行社）6%，月上限 300 元，超過以 1% 計。指定商店以官網公告為準。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail110",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "航空等 6 大場景",
+   "cap": "每月上限 300 元",
+   "startsOn": "2026-04-10",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ub_mw_general",
+   "cardId": "ubot_mworld",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 3,
+   "unit": "刷卡金",
+   "tip": "國內 1%、國外 3% 無上限",
+   "steps": [
+    "結帳時刷聯邦 M 世界卡"
+   ],
+   "conditions": "國內一般消費 1%、國外 3% 無上限；國內保險 1.2%。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail110",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-04-10",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ub_m_spec",
+   "cardId": "ubot_m",
+   "categories": [],
+   "brands": [
+    "中華航空",
+    "長榮航空",
+    "星宇航空",
+    "台灣虎航"
+   ],
+   "rateMin": 6,
+   "rateMax": 6,
+   "unit": "刷卡金",
+   "tip": "指定交通、旅遊場景最高 6%",
+   "steps": [
+    "完成任務（電子帳單、自動扣繳等）",
+    "結帳時刷聯邦 M 卡"
+   ],
+   "conditions": "指定交通／旅遊場景最高 6%，月上限 300 元，超過依任務完成與否以 1%／0.5% 計。指定商店以官網公告為準。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail203",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "航空等交通旅遊場景",
+   "cap": "每月上限 300 元",
+   "startsOn": "2026-04-10",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ub_m_general",
+   "cardId": "ubot_m",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 1,
+   "unit": "刷卡金",
+   "tip": "國內 1%（完成任務），未完成 0.5%",
+   "steps": [
+    "完成任務才有 1%"
+   ],
+   "conditions": "完成任務：國內 1%、國外實體 3%；未完成：國內 0.5%、國外 1.5%，皆無上限。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail203",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-04-10",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ub_green_general",
+   "cardId": "ubot_green",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "刷卡金",
+   "tip": "國內 1%、國外 2% 無上限",
+   "steps": [
+    "結帳時刷聯邦綠卡"
+   ],
+   "conditions": "國內 1%、國外 2% 無上限；綠色消費 6%（每月上限 300 元）、生活代扣繳 1%（每月上限 100 元），指定通路以官網為準。",
+   "sourceUrl": "https://card.ubot.com.tw/CardDetail/cardDetail204",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ub_travel_general",
+   "cardId": "ubot_traveler",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.1,
+   "rateMax": 1.3,
+   "unit": "現金回饋",
+   "tip": "一般消費 1.1% 無上限",
+   "steps": [
+    "結帳時刷聯邦國旅卡"
+   ],
+   "conditions": "一般消費 1.1% 現金回饋無上限，當月直接折抵；活動期間最高 1.3%。",
+   "sourceUrl": "https://card.ubot.com.tw/CardTravel/cardTravel",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
   }
  ],
  "brands": [
@@ -3895,6 +4795,13 @@
    "category": "dining"
   },
   {
+   "name": "Yahoo購物中心",
+   "aliases": [
+    "Yahoo奇摩購物中心"
+   ],
+   "category": "online"
+  },
+  {
    "name": "全家",
    "aliases": [
     "FamilyMart",
@@ -4042,6 +4949,11 @@
    "category": "department"
   },
   {
+   "name": "CatchPlay",
+   "aliases": [],
+   "category": "entertainment"
+  },
+  {
    "name": "秀泰影城",
    "aliases": [
     "秀泰",
@@ -4110,6 +5022,20 @@
    "name": "Duolingo",
    "aliases": [],
    "category": "online"
+  },
+  {
+   "name": "Q Burger",
+   "aliases": [
+    "QBurger"
+   ],
+   "category": "dining"
+  },
+  {
+   "name": "Blizzard",
+   "aliases": [
+    "暴雪"
+   ],
+   "category": "gaming"
   },
   {
    "name": "萊爾富",
@@ -4282,6 +5208,11 @@
    "category": "dining"
   },
   {
+   "name": "LINE TV",
+   "aliases": [],
+   "category": "entertainment"
+  },
+  {
    "name": "好市多",
    "aliases": [
     "Costco"
@@ -4448,6 +5379,11 @@
    "name": "喜樂時代影城",
    "aliases": [],
    "category": "entertainment"
+  },
+  {
+   "name": "Garena",
+   "aliases": [],
+   "category": "gaming"
   },
   {
    "name": "Agoda",
@@ -4826,6 +5762,31 @@
    "category": "dining"
   },
   {
+   "name": "寬宏售票",
+   "aliases": [],
+   "category": "entertainment"
+  },
+  {
+   "name": "年代售票",
+   "aliases": [],
+   "category": "entertainment"
+  },
+  {
+   "name": "漢神巨蛋",
+   "aliases": [],
+   "category": "department"
+  },
+  {
+   "name": "東森購物",
+   "aliases": [],
+   "category": "online"
+  },
+  {
+   "name": "KKTV",
+   "aliases": [],
+   "category": "entertainment"
+  },
+  {
    "name": "大全聯",
    "aliases": [],
    "category": "supermarket"
@@ -4910,6 +5871,26 @@
    "category": "supermarket"
   },
   {
+   "name": "H&M",
+   "aliases": [],
+   "category": "department"
+  },
+  {
+   "name": "GAP",
+   "aliases": [],
+   "category": "department"
+  },
+  {
+   "name": "NET",
+   "aliases": [],
+   "category": "department"
+  },
+  {
+   "name": "麥味登",
+   "aliases": [],
+   "category": "dining"
+  },
+  {
    "name": "捷運",
    "aliases": [],
    "category": "transit"
@@ -4950,6 +5931,16 @@
    "name": "里仁",
    "aliases": [],
    "category": "supermarket"
+  },
+  {
+   "name": "愛買",
+   "aliases": [],
+   "category": "supermarket"
+  },
+  {
+   "name": "GU",
+   "aliases": [],
+   "category": "department"
   }
  ]
 }
