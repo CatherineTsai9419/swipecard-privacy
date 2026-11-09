@@ -584,6 +584,225 @@
    "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
+  },
+  {
+   "id": "esun_dual",
+   "bankId": "esun",
+   "name": "玉山雙幣信用卡（日圓／美元／歐元）",
+   "networks": [
+    "JCB",
+    "VISA",
+    "Mastercard"
+   ],
+   "networksVerified": false,
+   "summary": "國外消費 1.5% 現金回饋無上限（美元卡在美國、歐元卡在歐盟再加 0.5%），外幣直接繳款；國內 0.2%。",
+   "officialUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/dualcurrency-card",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "esun_world",
+   "bankId": "esun",
+   "name": "玉山世界卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "國外 1%、國外實體登錄最高 3.5%；指定航空、旅行社、高鐵最高 3.2%（需月消費 5 萬）；國內 0.2%。",
+   "officialUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/WORLD",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "esun_pidebit",
+   "bankId": "esun",
+   "name": "玉山Pi拍兔簽帳金融卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "簽帳金融卡：國內外一般消費 1% P幣無上限，P幣可在 Pi 拍錢包折抵。",
+   "officialUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/debit-card/Pi-debit-card",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "esun_traveler",
+   "bankId": "esun",
+   "name": "玉山公務人員國民旅遊卡",
+   "networks": [
+    "VISA",
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "國旅卡：國內外一般消費 1% 玉山 e point 無上限，另有旅行社、訂房折扣。",
+   "officialUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/travel-card/traveler-card",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "esun_starlux",
+   "bankId": "esun",
+   "name": "玉山星宇航空聯名卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "哩程卡：國內每 NT$15–28 累積 1 哩、國外最優 NT$10＝1 哩（依卡等級），星宇官網購票加速。",
+   "officialUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/co-branded-card/starlux-card",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "esun_ecard",
+   "bankId": "esun",
+   "name": "玉山數位e卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "寵生活版：咖啡、指定支付 3%；輕時尚版：百貨、美妝 3%；指定類別（有機超市、電動車）最高 5%；一般 0.5%。",
+   "officialUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/e-card",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "esun_infinite",
+   "bankId": "esun",
+   "name": "玉山無限卡（含醫師尊榮無限卡）",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "公會會員專屬：國內外一般消費 1% 現金回饋無上限；指定航空、高鐵最高 3%；國外實體最高 2%。",
+   "officialUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/infinite-card",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_pxmart",
+   "bankId": "taishin",
+   "name": "台新大全聯信用卡",
+   "networks": [
+    "VISA",
+    "JCB"
+   ],
+   "summary": "大全聯店內 1.2% 福利點無上限（搭配卡友日抵用券最高 12%）；全支付店外最高 1.5%。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg010/card001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_jko",
+   "bankId": "taishin",
+   "name": "台新街口聯名卡",
+   "networks": [
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "精選旅遊、交通、百貨、外送餐飲、影城 KTV 最高 3.5% 街口幣；一般消費 1% 無上限。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg038/card001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_everrich",
+   "bankId": "taishin",
+   "name": "台新昇恆昌聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "航空、旅行社、昇恆昌指定市區店 2%；海外 1.5%；其他國內一般消費 0.5%。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg009/card001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_cx",
+   "bankId": "taishin",
+   "name": "台新國泰航空聯名卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "哩程卡：國內每 NT$22–30 累積 1 里（依卡等級），國外 NT$15–25＝1 里；國泰官網購票 NT$5＝1 里。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg003/card001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_friday",
+   "bankId": "taishin",
+   "name": "台新遠傳friDay聯名卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "一般消費 1% 遠傳幣無上限；遠傳電信帳單代扣最高 3%；會員日指定通路最高 8%。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg019/card001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_gogoro",
+   "bankId": "taishin",
+   "name": "台新Gogoro Rewards聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "Gogoro 電池資費、門市最高 4%；海外最高 4%；一般消費最高 1%（完成指定任務）。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg042/card001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_rose",
+   "bankId": "taishin",
+   "name": "台新玫瑰卡",
+   "networks": [
+    "VISA",
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "自由選方案：自選加碼類別當期滿 3 萬元 1.2%；不想選可用簡單雙享方案 0.5%；保費最高 1.2%。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg013/card0001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_sun",
+   "bankId": "taishin",
+   "name": "台新太陽卡",
+   "networks": [
+    "VISA",
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "自由選方案：自選加碼類別當期滿 3 萬元 1.2%；不想選可用簡單雙享方案 0.5%；保費最高 1.2%。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg012/card0001/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "taishin_fami",
+   "bankId": "taishin",
+   "name": "台新全家Richart聯名卡",
+   "networks": [
+    "VISA",
+    "Mastercard"
+   ],
+   "rightsSwitch": true,
+   "summary": "全家消費最高 3.8%、Fa 點最高 5 倍；店外可切換 Richart 卡權益，指定通路最高 10%。",
+   "officialUrl": "https://www.taishinbank.com.tw/TSB/personal/common/news/TSBankNews-008346/",
+   "networksVerified": true,
+   "issuance": ""
   }
  ],
  "rules": [
@@ -2914,6 +3133,609 @@
    "verified": true,
    "checkedAt": "2026-11-09",
    "scope": "一般消費"
+  },
+  {
+   "id": "esun_dual_general",
+   "cardId": "esun_dual",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.2,
+   "rateMax": 1.5,
+   "unit": "現金回饋",
+   "tip": "國外 1.5%、國內 0.2%",
+   "steps": [
+    "國外消費刷雙幣卡，以外幣直接繳款"
+   ],
+   "conditions": "國內一般消費 0.2% 無上限；國外消費 1.5% 無上限，美元卡美國地區、歐元卡歐盟地區再加 0.5%（每期上限 1,000 元）。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/dualcurrency-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "esun_world_spec",
+   "cardId": "esun_world",
+   "categories": [],
+   "brands": [
+    "山富旅遊",
+    "可樂旅遊",
+    "東南旅遊",
+    "雄獅旅遊",
+    "五福旅遊",
+    "中華航空",
+    "長榮航空",
+    "星宇航空",
+    "台灣高鐵"
+   ],
+   "rateMin": 3.2,
+   "rateMax": 3.2,
+   "unit": "玉山e point",
+   "tip": "指定航空、旅行社、高鐵最高 3.2%（需登錄）",
+   "steps": [
+    "到玉山官網登錄活動",
+    "當月國內外一般消費累積滿 5 萬元",
+    "在指定航空、旅行社、高鐵刷玉山世界卡"
+   ],
+   "conditions": "國內基本 0.2%＋指定休旅通路加碼 3%，加碼每月上限 6,000 點。指定通路：山富、太平洋、加利利、可樂、東南、晴天、華友、雄獅、五福旅行社，中華航空、長榮航空、星宇航空、台灣高鐵。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/WORLD",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "航空・旅行社・高鐵",
+   "cap": "加碼每月上限 6,000 點",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "esun_world_general",
+   "cardId": "esun_world",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.2,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內 0.2%、國外 1% 無上限",
+   "steps": [
+    "結帳時刷玉山世界卡"
+   ],
+   "conditions": "國內一般消費 0.2% 玉山 e point、國外一般消費 1% 現金回饋，皆無上限；國外實體登錄滿 2 萬元最高 3.5%。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/WORLD",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "esun_pidebit_general",
+   "cardId": "esun_pidebit",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "P幣",
+   "tip": "國內外一般消費 1% P幣無上限",
+   "steps": [
+    "結帳時刷 Pi 拍兔簽帳金融卡（從存款帳戶扣款）"
+   ],
+   "conditions": "國內外一般消費 1% P幣無上限，P幣可在 Pi 拍錢包合作通路折抵。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/debit-card/Pi-debit-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "esun_traveler_general",
+   "cardId": "esun_traveler",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "玉山e point",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷玉山國旅卡"
+   ],
+   "conditions": "國內、外刷卡新增一般消費享 1% 玉山 e point 回饋無上限（1 點＝1 元）。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/travel-card/traveler-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "esun_starlux_general",
+   "cardId": "esun_starlux",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.43,
+   "rateMax": 2.67,
+   "unit": "哩程（換算）",
+   "tip": "國內每 NT$15–28 累積 1 哩（依卡等級）",
+   "steps": [
+    "結帳時刷星宇聯名卡",
+    "哩程回饋至 COSMILE 帳戶"
+   ],
+   "conditions": "國內消費：世界之極卡 NT$15、世界卡 NT$20、商務鈦金卡 NT$25、鈦金卡 NT$28＝1 哩；國外消費 NT$10–20＝1 哩。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/co-branded-card/starlux-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "esun_e_spec",
+   "cardId": "esun_ecard",
+   "categories": [],
+   "brands": [
+    "里仁",
+    "棉花田",
+    "聖德科斯",
+    "主婦聯盟",
+    "Tesla",
+    "iRent",
+    "GoShare",
+    "WeMo",
+    "Gogoro"
+   ],
+   "rateMin": 5,
+   "rateMax": 5,
+   "unit": "玉山e point",
+   "tip": "有機超市、電動車服務最高 5%（需登錄）",
+   "steps": [
+    "申請帳單 e 化並設定玉山帳戶自動扣繳",
+    "到官網登錄指定類別加碼",
+    "在指定通路刷玉山數位 e 卡"
+   ],
+   "conditions": "基本 0.5%＋指定類別加碼 4.5%，加碼每期上限 250 點。指定類別：里仁、棉花田、聖德科斯、主婦聯盟（網路＋實體），特斯拉、iRent、GoShare、WeMo、Gogoro 電池資費等（網路消費）。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/e-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "有機超市・電動車",
+   "cap": "加碼每期上限 250 點",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "esun_e_pet",
+   "cardId": "esun_ecard",
+   "categories": [],
+   "brands": [
+    "cama",
+    "路易莎",
+    "星巴克"
+   ],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "玉山e point",
+   "tip": "寵生活版：cama、路易莎、星巴克 3%",
+   "steps": [
+    "申請帳單 e 化並設定玉山帳戶自動扣繳",
+    "用玉山 Wallet、Apple Pay、Google Pay 等在實體門市付款"
+   ],
+   "conditions": "寵生活版：指定咖啡（cama、路易莎、星巴克）與指定支付（全盈+PAY、悠遊付、icash Pay）3%，含基本 0.5%，加碼每期上限 250 點。咖啡限開立該店發票之門市，百貨、車站、大賣場內門市不適用。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/e-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "planName": "寵生活版",
+   "scope": "咖啡",
+   "cap": "加碼每期上限 250 點",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "esun_e_fashion",
+   "cardId": "esun_ecard",
+   "categories": [],
+   "brands": [
+    "新光三越",
+    "遠東百貨",
+    "SOGO",
+    "屈臣氏",
+    "寶雅",
+    "康是美"
+   ],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "玉山e point",
+   "tip": "輕時尚版：百貨、美妝 3%",
+   "steps": [
+    "申請帳單 e 化並設定玉山帳戶自動扣繳",
+    "用玉山 Wallet、Apple Pay、Google Pay 等在實體門市付款"
+   ],
+   "conditions": "輕時尚版：新光三越、遠東百貨、SOGO、屈臣氏、寶雅、康是美 3%，含基本 0.5%，加碼每期上限 250 點。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/e-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "planName": "輕時尚版",
+   "scope": "百貨・美妝",
+   "cap": "加碼每期上限 250 點",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "esun_e_general",
+   "cardId": "esun_ecard",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "玉山e point",
+   "tip": "國內外一般消費 0.5% 無上限",
+   "steps": [
+    "申請帳單 e 化並設定玉山帳戶自動扣繳"
+   ],
+   "conditions": "國內外一般消費 0.5% 玉山 e point 無上限，需帳單 e 化＋玉山帳戶自動扣繳。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/e-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "esun_inf_spec",
+   "cardId": "esun_infinite",
+   "categories": [],
+   "brands": [
+    "中華航空",
+    "長榮航空",
+    "星宇航空",
+    "台灣高鐵"
+   ],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "回饋",
+   "tip": "指定航空、高鐵最高 3%",
+   "steps": [
+    "結帳時刷玉山無限卡"
+   ],
+   "conditions": "國內一般消費 1% 現金回饋＋指定航空、高鐵 2% 玉山 e point。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/infinite-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "航空・高鐵",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "esun_inf_general",
+   "cardId": "esun_infinite",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷玉山無限卡"
+   ],
+   "conditions": "國內／國外新增一般消費 1% 現金回饋無上限；國外實體每季滿 10 萬並登錄最高 2%。",
+   "sourceUrl": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/infinite-card",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ts_px_store",
+   "cardId": "taishin_pxmart",
+   "categories": [],
+   "brands": [
+    "大全聯"
+   ],
+   "rateMin": 1.2,
+   "rateMax": 1.2,
+   "unit": "福利點",
+   "tip": "大全聯店內 1.2% 無上限，不用登錄",
+   "steps": [
+    "在大全聯刷大全聯信用卡",
+    "卡友日搭配抵用券最高 12%"
+   ],
+   "conditions": "大全聯店內消費每 100 元給最高 12 福利點（1.2%），無需登錄、無上限；卡友日週末抵用券另計。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg010/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "大全聯"
+  },
+  {
+   "id": "ts_px_general",
+   "cardId": "taishin_pxmart",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.3,
+   "rateMax": 1.5,
+   "unit": "福利點",
+   "tip": "綁全支付在店外消費最高 1.5%",
+   "steps": [
+    "綁定全支付付款"
+   ],
+   "conditions": "全支付（店外）消費每 100 元最高 15 福利點（1.5%），單筆滿 1,000 元加碼；其他一般消費每 100 元 3 點（0.3%）。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg010/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_jko_spec",
+   "cardId": "taishin_jko",
+   "categories": [],
+   "brands": [
+    "EZTABLE",
+    "85度C",
+    "清心福全",
+    "三商巧福",
+    "威秀影城",
+    "國賓影城",
+    "新光影城",
+    "喜樂時代影城",
+    "秀泰影城",
+    "台灣高鐵",
+    "Uber",
+    "USPACE",
+    "錢櫃",
+    "好樂迪",
+    "星聚點",
+    "新光三越",
+    "遠東百貨",
+    "遠東巨城",
+    "LaLaport",
+    "MITSUI OUTLET PARK",
+    "Klook",
+    "KKday",
+    "易遊網",
+    "Agoda",
+    "Airbnb"
+   ],
+   "rateMin": 3.5,
+   "rateMax": 3.5,
+   "unit": "街口幣",
+   "tip": "精選旅遊、交通、百貨、餐飲、影城 KTV 3.5%",
+   "steps": [
+    "結帳時刷街口聯名卡（部分通路建議用街口支付綁卡）"
+   ],
+   "conditions": "一般消費 1%＋精選加碼 2.5%，精選加碼合計每月上限 10,000 街口幣。TWQR 形式消費不適用加碼。精選通路以官網公告為準。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg038/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "精選通路",
+   "cap": "加碼每月上限 10,000 街口幣",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_jko_general",
+   "cardId": "taishin_jko",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "街口幣",
+   "tip": "一般消費 1% 街口幣無上限",
+   "steps": [
+    "結帳時刷街口聯名卡"
+   ],
+   "conditions": "一般消費 1% 街口幣無上限（1 街口幣＝1 元）；街口 App 繳費 0.15%。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg038/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_evr_spec",
+   "cardId": "taishin_everrich",
+   "categories": [],
+   "brands": [
+    "昇恆昌",
+    "中華航空",
+    "長榮航空",
+    "星宇航空",
+    "雄獅旅遊",
+    "可樂旅遊",
+    "東南旅遊",
+    "五福旅遊",
+    "易遊網"
+   ],
+   "rateMin": 2,
+   "rateMax": 2,
+   "unit": "現金回饋",
+   "tip": "航空、旅行社、昇恆昌市區店 2%",
+   "steps": [
+    "結帳時刷昇恆昌聯名卡"
+   ],
+   "conditions": "昇恆昌指定市區店（內湖旗艦店、金湖廣場、澎坊）、航空公司、國內旅行社 2%；海外 1.5%；單期回饋總上限 2,500 元。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg009/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "航空・旅行社・昇恆昌",
+   "cap": "單期上限 2,500 元",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_evr_general",
+   "cardId": "taishin_everrich",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "現金回饋",
+   "tip": "國內一般消費 0.5%",
+   "steps": [
+    "結帳時刷昇恆昌聯名卡"
+   ],
+   "conditions": "其他國內一般消費 0.5%，海外 1.5%（單期回饋總上限 2,500 元）。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg009/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_cx_general",
+   "cardId": "taishin_cx",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.33,
+   "rateMax": 1.82,
+   "unit": "哩程（換算）",
+   "tip": "國內每 NT$22–30 累積 1 里（依卡等級）",
+   "steps": [
+    "設定台新帳戶自動扣繳卡費",
+    "結帳時刷國泰航空聯名卡"
+   ],
+   "conditions": "國內：世界卡 NT$22、翱翔鈦金卡 NT$25、鈦金卡 NT$30＝1 里；國外 NT$15–25＝1 里；國泰官網購票 NT$5＝1 里。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg003/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_fet_spec",
+   "cardId": "taishin_friday",
+   "categories": [],
+   "brands": [
+    "遠傳"
+   ],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "遠傳幣",
+   "tip": "遠傳電信帳單代扣最高 3%",
+   "steps": [
+    "設定遠傳電信帳單自動代扣繳"
+   ],
+   "conditions": "遠傳電信帳單代扣繳最高 3%（基本 1%＋加碼 2%，加碼每期上限 300 遠傳幣）；週二、週五會員日指定通路最高 8%。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg019/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "遠傳電信",
+   "cap": "加碼每期上限 300 遠傳幣",
+   "startsOn": "2026-06-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_fet_general",
+   "cardId": "taishin_friday",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "遠傳幣",
+   "tip": "一般消費 1% 遠傳幣無上限",
+   "steps": [
+    "結帳時刷遠傳 friDay 聯名卡"
+   ],
+   "conditions": "一般消費（含保費）1% 遠傳幣無上限。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg019/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ts_ggr_spec",
+   "cardId": "taishin_gogoro",
+   "categories": [],
+   "brands": [
+    "Gogoro"
+   ],
+   "rateMin": 4,
+   "rateMax": 4,
+   "unit": "回饋",
+   "tip": "Gogoro 電池資費、門市最高 4%",
+   "steps": [
+    "用 Gogoro Rewards 聯名卡繳電池資費或在門市消費"
+   ],
+   "conditions": "電池資費帳單最高 4% 無上限、門市維修保養最高 4%；海外最高 4%。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg042/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "Gogoro",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_ggr_general",
+   "cardId": "taishin_gogoro",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.3,
+   "rateMax": 1,
+   "unit": "回饋",
+   "tip": "一般消費最高 1%（完成指定任務）",
+   "steps": [
+    "結帳時刷 Gogoro Rewards 聯名卡"
+   ],
+   "conditions": "一般消費 0.3%，完成指定任務再加碼 0.7%，最高 1% 無上限。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg042/card001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_rose_general",
+   "cardId": "taishin_rose",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.2,
+   "rateMax": 0.5,
+   "unit": "台新Point",
+   "tip": "簡單雙享 0.5%；自選類別滿 3 萬 1.2%",
+   "steps": [
+    "到台新官網或 App 選擇方案"
+   ],
+   "conditions": "自由選方案：當期帳單一般消費滿 3 萬元，指定加碼類別 1.2%、其他 0.2%；未滿 3 萬元皆 0.2%。簡單雙享方案：不限金額 0.5%。每期回饋上限 1,500 點台新 Point（1 點＝1 元）。保費最高 1.2% 無上限。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg013/card0001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_sun_general",
+   "cardId": "taishin_sun",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.2,
+   "rateMax": 0.5,
+   "unit": "台新Point",
+   "tip": "簡單雙享 0.5%；自選類別滿 3 萬 1.2%",
+   "steps": [
+    "到台新官網或 App 選擇方案"
+   ],
+   "conditions": "自由選方案：當期帳單一般消費滿 3 萬元，指定加碼類別 1.2%、其他 0.2%；未滿 3 萬元皆 0.2%。簡單雙享方案：不限金額 0.5%。每期回饋上限 1,500 點台新 Point（1 點＝1 元）。保費最高 1.2% 無上限。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg012/card0001/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ts_fami_store",
+   "cardId": "taishin_fami",
+   "categories": [],
+   "brands": [
+    "全家"
+   ],
+   "rateMin": 3.8,
+   "rateMax": 3.8,
+   "unit": "台新Point",
+   "tip": "全家消費最高 3.8%",
+   "steps": [
+    "在全家用指定支付結帳",
+    "台新 Point 可每日自動轉為全家 Fa 點"
+   ],
+   "conditions": "全家消費最高 3.8%（指定支付），當期店內累積滿 1,000 元另贈 1,000 Fa 點。店外消費適用 Richart 卡切換方案。詳細條件以台新官網公告為準。",
+   "sourceUrl": "https://www.taishinbank.com.tw/TSB/personal/common/news/TSBankNews-008346/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "全家"
   }
  ],
  "brands": [
@@ -3010,6 +3832,13 @@
     "seven-eleven"
    ],
    "category": "convenience"
+  },
+  {
+   "name": "WeMo",
+   "aliases": [
+    "WeMo Scooter"
+   ],
+   "category": "transit"
   },
   {
    "name": "美廉社",
@@ -3203,6 +4032,14 @@
     "cama café"
    ],
    "category": "dining"
+  },
+  {
+   "name": "昇恆昌",
+   "aliases": [
+    "昇恆昌免稅店",
+    "Ever Rich"
+   ],
+   "category": "department"
   },
   {
    "name": "秀泰影城",
@@ -3426,6 +4263,25 @@
    "category": "online"
   },
   {
+   "name": "主婦聯盟",
+   "aliases": [
+    "主婦聯盟合作社"
+   ],
+   "category": "supermarket"
+  },
+  {
+   "name": "GoShare",
+   "aliases": [],
+   "category": "transit"
+  },
+  {
+   "name": "EZTABLE",
+   "aliases": [
+    "簡單桌"
+   ],
+   "category": "dining"
+  },
+  {
    "name": "好市多",
    "aliases": [
     "Costco"
@@ -3580,6 +4436,18 @@
     "三井料理"
    ],
    "category": "dining"
+  },
+  {
+   "name": "星聚點",
+   "aliases": [
+    "星聚點KTV"
+   ],
+   "category": "entertainment"
+  },
+  {
+   "name": "喜樂時代影城",
+   "aliases": [],
+   "category": "entertainment"
   },
   {
    "name": "Agoda",
@@ -3946,6 +4814,18 @@
    "category": "dining"
   },
   {
+   "name": "85度C",
+   "aliases": [
+    "85°C"
+   ],
+   "category": "dining"
+  },
+  {
+   "name": "清心福全",
+   "aliases": [],
+   "category": "dining"
+  },
+  {
    "name": "大全聯",
    "aliases": [],
    "category": "supermarket"
@@ -4025,6 +4905,11 @@
    "category": "dining"
   },
   {
+   "name": "棉花田",
+   "aliases": [],
+   "category": "supermarket"
+  },
+  {
    "name": "捷運",
    "aliases": [],
    "category": "transit"
@@ -4060,6 +4945,11 @@
    "name": "欣葉",
    "aliases": [],
    "category": "dining"
+  },
+  {
+   "name": "里仁",
+   "aliases": [],
+   "category": "supermarket"
   }
  ]
 }
