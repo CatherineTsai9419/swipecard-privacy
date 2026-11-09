@@ -66,6 +66,71 @@
    "id": "skbank",
    "name": "新光銀行",
    "homepage": "https://www.skbank.com.tw"
+  },
+  {
+   "id": "scsb",
+   "name": "上海商銀",
+   "homepage": "https://www.scsb.com.tw"
+  },
+  {
+   "id": "yuanta",
+   "name": "元大銀行",
+   "homepage": "https://www.yuantabank.com.tw"
+  },
+  {
+   "id": "mega",
+   "name": "兆豐銀行",
+   "homepage": "https://www.megabank.com.tw"
+  },
+  {
+   "id": "tcb",
+   "name": "合作金庫",
+   "homepage": "https://www.tcb-bank.com.tw"
+  },
+  {
+   "id": "chb",
+   "name": "彰化銀行",
+   "homepage": "https://www.bankchb.com"
+  },
+  {
+   "id": "obank",
+   "name": "王道銀行",
+   "homepage": "https://www.o-bank.com"
+  },
+  {
+   "id": "amex",
+   "name": "美國運通",
+   "homepage": "https://www.americanexpress.com/zh-tw/"
+  },
+  {
+   "id": "tbb",
+   "name": "臺灣企銀",
+   "homepage": "https://www.tbb.com.tw"
+  },
+  {
+   "id": "bot",
+   "name": "臺灣銀行",
+   "homepage": "https://www.bot.com.tw"
+  },
+  {
+   "id": "hncb",
+   "name": "華南銀行",
+   "homepage": "https://www.hncb.com.tw"
+  },
+  {
+   "id": "feib",
+   "name": "遠東商銀",
+   "homepage": "https://www.feib.com.tw"
+  },
+  {
+   "id": "sunny",
+   "name": "陽信銀行",
+   "homepage": "https://www.sunnybank.com.tw"
+  },
+  {
+   "id": "nextbank",
+   "name": "將來銀行",
+   "homepage": "https://www.nextbank.com.tw"
   }
  ],
  "cards": [
@@ -1067,6 +1132,608 @@
    ],
    "summary": "國旅卡：一般消費 1.1% 現金回饋無上限（活動加碼最高 1.3%）。",
    "officialUrl": "https://card.ubot.com.tw/CardTravel/cardTravel",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "dbs_ecoez",
+   "bankId": "dbs",
+   "name": "星展eco永續極簡卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "networksVerified": false,
+   "summary": "國內外一般消費 1% 無上限；日韓泰、新美歐最高 5%；Tesla、Gogoro 等 eco 消費最高 10%。",
+   "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/default.page",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "dbs_everyday",
+   "bankId": "dbs",
+   "name": "星展everyday威士御璽卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "一般消費每 NT$25 累積 1 點活利積分（約 0.16%）；指定海外串流影音 10 倍積分。",
+   "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/everyday/index.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "dbs_aov",
+   "bankId": "dbs",
+   "name": "星展傳說對決聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "以星展帳戶自動扣繳：國內外 1% 無上限、日韓泰新美歐 5%、40+ 生活玩家精選通路最高 10%。",
+   "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-aov/index.html",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "dbs_livefresh",
+   "bankId": "dbs",
+   "name": "星展炫晶御璽卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "國內一般消費 0.8%、國外 2.5% 現金回饋無上限；炫晶鈦金／商務御璽卡同權益。",
+   "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/default.page",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "dbs_travelworld",
+   "bankId": "dbs",
+   "name": "星展飛行世界卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "飛行積金：世界商務卡國內 NT$22、海外 NT$18＝1 點；飛行鈦金卡國內 NT$35、海外 NT$20＝1 點；可轉 4 大航空哩程。",
+   "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/travelworld/index.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "dbs_funlife",
+   "bankId": "dbs",
+   "name": "星展饗樂生活卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "一般消費每 NT$30＝1 點活利積分；王品人氣品牌 9 折、威秀購票 6 折起，王品指定餐廳與威秀雙倍積分。",
+   "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-funlife/index.html",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "hsbc_traveler",
+   "bankId": "hsbc",
+   "name": "滙豐旅人卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "旅遊積分：無限卡海外 NT$10、御璽卡 NT$15、輕旅卡 NT$20＝1 點；國內 NT$18–20＝1 點；可 1:1 兌換 15 家以上航空哩程。",
+   "officialUrl": "https://www.hsbc.com.tw/zh-tw/credit-cards/products/travel/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "scsb_teresa",
+   "bankId": "scsb",
+   "name": "上海商銀Teresa卡",
+   "networks": [
+    "JCB"
+   ],
+   "summary": "一般消費 0.8% 無上限；指定通路 3.8%（每月上限 380 元）；指定外幣消費 2%。",
+   "officialUrl": "https://www.scsb.com.tw/content/card/card03.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "scsb_minions",
+   "bankId": "scsb",
+   "name": "上海商銀小小兵回饋卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內 1.234%、國外 2.234%；全球環球影城最高 10%；六大國內影城最高 12%。",
+   "officialUrl": "https://www.scsb.com.tw/content/card/card_1110222.html",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "scsb_minions_inst",
+   "bankId": "scsb",
+   "name": "上海商銀小小兵分期卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "單筆滿 3 千自動分 3 期 0 利率（自扣可分 6 期）；國外消費 1.5% 回饋，國內消費不回饋。",
+   "officialUrl": "https://www.scsb.com.tw/content/card/card_1110222-2.html",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "yuanta_beer",
+   "bankId": "yuanta",
+   "name": "元大分享黑啤卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內商店最高 12 期 0 利率再享 0.5%、海外 8 期 0 利率再享 1.5% 鑽金紅利無上限；直式卡面。",
+   "officialUrl": "https://www.yuantabank.com.tw/bank/creditCard/creditCard/in.do?id=30ad9e1c99000007348f",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "yuanta_diamond",
+   "bankId": "yuanta",
+   "name": "元大鑽金卡",
+   "networks": [
+    "VISA",
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "國內 1.2%、海外 2.2% 現金回饋無上限，全球皆回饋。",
+   "officialUrl": "https://www.yuantabank.com.tw/bankwebIMG/event/Bank_Act2026/Card20260901/index.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "mega_esecond",
+   "bankId": "mega",
+   "name": "兆豐e秒刷卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "網購不限通路 2.5%（每期上限 200 元），電子帳單＋兆豐帳戶自扣再加 0.5%；非網路一般消費 0.5% 無上限。",
+   "officialUrl": "https://www.megabank.com.tw/personal/credit-card/card/overview/young",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "mega_bt21",
+   "bankId": "mega",
+   "name": "兆豐宇宙明星BT21信用卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內 1%、國外 2% 無上限（含電子帳單加碼）；完成任務綁指定支付再加 2%。",
+   "officialUrl": "https://www.megabank.com.tw/personal/credit-card/card/bt21creditcard",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "mega_nextbank",
+   "bankId": "mega",
+   "name": "兆豐將來銀行聯名卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "一般消費 1% 無上限；滿 3,000 元可分 3–11 期 0 利率；持卡免年費。",
+   "officialUrl": "https://www.megabank.com.tw/personal/credit-card/card/next-bank",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "kgi_eslite",
+   "bankId": "kgi",
+   "name": "凱基誠品聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "一般消費 0.3%，凱基帳戶自扣再加 2%；誠品店內依會員等級加碼最高 4.7%，合計最高 7%。",
+   "officialUrl": "https://www.kgibank.com.tw/webpages/eslite-credit-card/index.html",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "kgi_dualmile",
+   "bankId": "kgi",
+   "name": "凱基雙幣哩程卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "國內外一般消費每 NT$22＝1 哩程點（財管戶國內 18、國外 12），可 1:1 換華航、長榮、亞洲萬里通。",
+   "officialUrl": "https://www.kgibank.com.tw/webpages/dual-currency-mileage-credit-card/index.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "tcb_ienjoy",
+   "bankId": "tcb",
+   "name": "合庫i享樂生活卡",
+   "networks": [
+    "VISA",
+    "Mastercard"
+   ],
+   "summary": "官網標示指定四大通路最高 5% 現金回饋；通路與條件請見官網。",
+   "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/interests/cashback",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "tcb_kanahei_cash",
+   "bankId": "tcb",
+   "name": "卡娜赫拉的小動物icash聯名卡（夢想鑽現卡）",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內外一般消費 1% 無上限；網購 3%（加碼每期上限 150 元）。",
+   "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/icash-kanahei",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "tcb_kanahei_point",
+   "bankId": "tcb",
+   "name": "卡娜赫拉的小動物icash聯名卡（夢想鑽點卡）",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內外一般消費 OPENPOINT 1% 無上限；7-ELEVEN 用 icash 消費再享 3%。",
+   "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei-2",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "tcb_kanahei_easy",
+   "bankId": "tcb",
+   "name": "卡娜赫拉的小動物悠遊聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內外 1% 無上限；當期消費滿 2,999 元，行動支付、綠能、遊戲影音三大通路各加碼 10%。",
+   "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "tcb_kanahei_virtual",
+   "bankId": "tcb",
+   "name": "卡娜赫拉的小動物無實體卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "僅供網路交易與行動支付；國內外 1% 無上限，三大通路加碼 10%（同悠遊聯名卡）。",
+   "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei--virtual",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "next_dajiang",
+   "bankId": "nextbank",
+   "name": "將來銀行大將卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "簽帳金融卡：完成三擇一任務，次月國內 1.5%、海外 2.5% N點回饋無上限；免年費。",
+   "officialUrl": "https://www.nextbank.com.tw/announcement/4b262cbb0600000005db69481a78b4a4/news93",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "next_jiangjiang",
+   "bankId": "nextbank",
+   "name": "將來銀行將將卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "簽帳金融卡：刷卡回饋將來 N 點，附一卡通功能；回饋活動請見官網。",
+   "officialUrl": "https://www.nextbank.com.tw/product/card",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "chb_mylove",
+   "bankId": "chb",
+   "name": "彰銀My樂卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內 0.5%、國外 1% 無上限；每月 1 日登錄，指定錢包綁 My 樂卡最高 9%。",
+   "officialUrl": "https://mylove.bankchb.com/",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "chb_mygo",
+   "bankId": "chb",
+   "name": "彰銀My購卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "一般消費 1% 無上限；網購 2%、週末國內電商 4%、海外電商／旅遊平台與影音遊戲 6%（加碼月上限 300 元）。",
+   "officialUrl": "https://www.bankchb.com/frontend/mashup.jsp?funcId=62aed72f16",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "rakuten_tiger",
+   "bankId": "rakuten",
+   "name": "樂天台灣虎航聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "國內 0.5% 刷卡金無上限；LINE Pay、街口、台灣虎航再加 2.5% tigerpoints；日韓實體 2%。",
+   "officialUrl": "https://www.card.rakuten.com.tw/corp/ads/15.xhtml",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "rakuten_soar",
+   "bankId": "rakuten",
+   "name": "樂天樂翔卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "樂翔積分：國內 NT$18＝1 點；海外無限卡 NT$6、御璽卡 NT$12–13＝1 點；分期同享回饋。",
+   "officialUrl": "https://www.card.rakuten.com.tw/corp/ads/11.xhtml",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "obank_orange",
+   "bankId": "obank",
+   "name": "王道O! Range卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "簽帳金融卡：國內外一般消費 1% 無上限；活存月底 10 萬以上，指定支付、外送、百貨餐飲、購票加碼 2.8%。",
+   "officialUrl": "https://www.o-bank.com/web/event/o-range-card/index.html",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "firstbank_icash",
+   "bankId": "firstbank",
+   "name": "第一銀行icash聯名卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "官網標示新卡友日本韓國 5%、統一超商與指定餐飲 10%；附 icash2.0，條件請見官網。",
+   "officialUrl": "https://card.firstbank.com.tw/sites/card/touch/1565690685468",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "firstbank_visabiz",
+   "bankId": "firstbank",
+   "name": "第一銀行御璽商旅卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "國內一般消費 0.6–1% 級距回饋；海外外幣實體 3% 無上限；高鐵、中油直營、星巴克、機票訂房等精選通路 3%。",
+   "officialUrl": "https://card.firstbank.com.tw/sites/Satellite?c=CreditCard&cid=1565690685615&d=Touch&pagename=FirstBankCard%2FCreditCard%2Fzh%2FCreditCardDetailView",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "firstbank_taoyuan",
+   "bankId": "firstbank",
+   "name": "第一銀行桃園市市民卡聯名卡／桃園市認同卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "精選通路單筆滿 300 元：市民卡 5%（加油 3%）、認同卡 3%（每期上限 300 元）；外幣消費最高 5%；附悠遊卡或一卡通。",
+   "officialUrl": "https://card.firstbank.com.tw/sites/Satellite?c=CreditCard&cid=1565691695422&d=Touch&pagename=FirstBankCard%2FCreditCard%2Fzh%2FCardActivityDetailView",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "amex_platcredit",
+   "bankId": "amex",
+   "name": "美國運通信用白金卡",
+   "networks": [
+    "AMEX"
+   ],
+   "summary": "每 NT$30＝1 積分，可兌換商品、折抵刷卡金或 1:1 轉航空哩程；五星飯店餐廳 2 人同行 1 人免費。",
+   "officialUrl": "https://www.americanexpress.com/zh-tw/credit-cards/grcc-plat/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "amex_platcharge",
+   "bankId": "amex",
+   "name": "美國運通簽帳白金卡",
+   "networks": [
+    "AMEX"
+   ],
+   "summary": "每 NT$30＝1「會員酬賓」積分，可 1:1 轉五大航空哩程；年費 NT$36,800 級頂級旅遊禮遇。",
+   "officialUrl": "https://www.americanexpress.com/zh-tw/charge-cards/plat/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "amex_gold",
+   "bankId": "amex",
+   "name": "美國運通耀金卡",
+   "networks": [
+    "AMEX"
+   ],
+   "summary": "每 NT$30＝1 積分；星巴克、Uber Eats、Klook、Expedia 登錄享刷卡金，年度最高 NT$4,400。",
+   "officialUrl": "https://www.americanexpress.com/zh-tw/charge-cards/gold/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "amex_evaplat",
+   "bankId": "amex",
+   "name": "美國運通長榮航空簽帳白金卡",
+   "networks": [
+    "AMEX"
+   ],
+   "summary": "每 NT$25＝1 哩，海外消費與長榮機票、長榮假期再加 50%；每年 2 次升等禮遇（年消費 120 萬）。",
+   "officialUrl": "https://www.americanexpress.com/zh-tw/charge-cards/eva-plat/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "amex_evagold",
+   "bankId": "amex",
+   "name": "美國運通長榮航空簽帳金卡",
+   "networks": [
+    "AMEX"
+   ],
+   "summary": "每 NT$25＝1 哩；每月首 2,000 哩國內最優 NT$20、海外與長榮機票最優 NT$15＝1 哩。",
+   "officialUrl": "https://www.americanexpress.com/zh-tw/charge-cards/eva-gold/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "tbb_sus_ipass",
+   "bankId": "tbb",
+   "name": "臺灣企銀永續生活一卡通",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內 0.5%、國外 1.5% 無上限；當期消費滿 6,000 元並登錄，綠色交通最高 10%（加碼月上限 300 元）。",
+   "officialUrl": "https://www.tbb.com.tw/web/guest/-66",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "tbb_sus_easy",
+   "bankId": "tbb",
+   "name": "臺灣企銀永續生活悠遊卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內 0.5%、國外 1.5% 無上限；當期消費滿 6,000 元並登錄，指定綠色餐廳／戶外用品／生機商店最高 10%。",
+   "officialUrl": "https://www.tbb.com.tw/web/guest/-34",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "bot_greengo",
+   "bankId": "bot",
+   "name": "臺灣銀行綠行卡",
+   "networks": [
+    "Mastercard"
+   ],
+   "summary": "國內 1%（電子帳單＋臺銀帳戶自扣）、海外 2.2% 無上限；綠色通路與低碳出行加碼 5%；全台首張木質卡。",
+   "officialUrl": "https://wwwap.bot.com.tw/greengocard/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "hncb_rich",
+   "bankId": "hncb",
+   "name": "華南Rich+富家卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "國內 1%、海外 2% 現金回饋無上限；投資理財再享 1–3% 儲蓄點數。",
+   "officialUrl": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/cash_feedback_card/card_rich_plus",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "hncb_sny",
+   "bankId": "hncb",
+   "name": "華南SnY信用卡",
+   "networks": [
+    "VISA"
+   ],
+   "summary": "限 SnY 數位帳戶持有者；指定支付單筆 100 元以上最高 5%（當期上限 500 元）；一般消費 3 倍紅利。",
+   "officialUrl": "https://card.hncb.com.tw/wps/portal/card/icard01/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_Q0MXQ0d_Q183d3NLQ0CnfwsXUNNnQwdvUz1w8EKDHAARwP9KGL041EQhd_4cP0oiBJ_U08PA6AJBsFhRgaOPpYm5t6-hkbuJuYwBbjNKMgNjTDIdFQEAFhh_aE!/dz/d5/L2dBISEvZ0FBIS9nQSEh/",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "feib_happy",
+   "bankId": "feib",
+   "name": "遠東快樂信用卡",
+   "networks": [
+    "Mastercard",
+    "JCB"
+   ],
+   "summary": "SOGO、遠百、愛買、LINE Pay 等日常通路最高 5%（每月上限 300 元，需登錄）；遠東集團 HAPPY GO 加倍。",
+   "officialUrl": "https://www.feib.com.tw/upload/creditcard/HappyCardRed/index.html",
+   "networksVerified": true,
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "feib_yajia",
+   "bankId": "feib",
+   "name": "遠東樂家+卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "一般消費 0.5% 無上限、海外最高 2.5%；寵物通路最高 10%；遠銀自扣達檻，藥局、誠品、餐廳等最高 4%。",
+   "officialUrl": "https://www.feib.com.tw/upload/creditcard/YACard/page2.html",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "feib_lexing",
+   "bankId": "feib",
+   "name": "遠東樂行卡",
+   "networks": [
+    "VISA"
+   ],
+   "networksVerified": false,
+   "summary": "遠銀帳戶自扣、刷滿額享指定交通與旅遊最高 3% 刷卡金；條件請見官網。",
+   "officialUrl": "https://ecard.feib.com.tw/Activity/2026H1CCAutoPay/",
+   "rightsSwitch": false,
+   "issuance": ""
+  },
+  {
+   "id": "sunny_jcb",
+   "bankId": "sunny",
+   "name": "陽信JCB晶緻卡",
+   "networks": [
+    "JCB"
+   ],
+   "summary": "國內外一般消費 1% 無上限；日本、韓國、泰國 3% 無上限；行動支付與外送最高 5%。",
+   "officialUrl": "https://www.sunnybank.com.tw/net/Page/Tmenu/500",
    "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
@@ -4636,6 +5303,1503 @@
    "scope": "一般消費",
    "startsOn": "2026-01-01",
    "endsOn": "2026-12-31"
+  },
+  {
+   "id": "dbs_ecoez_general",
+   "cardId": "dbs_ecoez",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金積點",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷星展 eco 永續極簡卡"
+   ],
+   "conditions": "國內外一般消費 1% 無上限；日本、韓國、泰國、新加坡、美洲、歐洲指定地區加碼最高 5%（每期上限 600 點）；eco 消費最高 10%（每期上限 300 點）。",
+   "sourceUrl": "https://www.dbs.com.tw/iwov-resources/pdf/LatestNews/cardsNotice-20251013.pdf",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "dbs_ecoez_green",
+   "cardId": "dbs_ecoez",
+   "categories": [],
+   "brands": [
+    "Tesla",
+    "Gogoro"
+   ],
+   "rateMin": 1,
+   "rateMax": 10,
+   "unit": "現金積點",
+   "tip": "Tesla 充電、Gogoro 電池資費最高 10%",
+   "steps": [
+    "結帳時刷星展 eco 永續極簡卡"
+   ],
+   "conditions": "eco 消費含原 1% 及加碼 9%，加碼每期上限 300 點。",
+   "sourceUrl": "https://www.dbs.com.tw/iwov-resources/pdf/LatestNews/cardsNotice-20251013.pdf",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "eco 消費",
+   "cap": "加碼每期上限 300 點"
+  },
+  {
+   "id": "dbs_every_general",
+   "cardId": "dbs_everyday",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.16,
+   "rateMax": 0.16,
+   "unit": "活利積分（換算）",
+   "tip": "每 NT$25 累積 1 點活利積分",
+   "steps": [
+    "結帳時刷 everyday 御璽卡"
+   ],
+   "conditions": "國內外一般消費每 NT$25＝1 點活利積分；以官網 5,000 點等值 NT$200 換算約 0.16%。指定海外串流影音平台享 10 倍積分。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/everyday/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "dbs_every_stream",
+   "cardId": "dbs_everyday",
+   "categories": [],
+   "brands": [
+    "Netflix",
+    "Disney+",
+    "YouTube Premium",
+    "Spotify"
+   ],
+   "rateMin": 1.6,
+   "rateMax": 1.6,
+   "unit": "活利積分（換算）",
+   "tip": "Netflix、Disney+、Spotify 等 10 倍積分",
+   "steps": [
+    "結帳時刷 everyday 御璽卡"
+   ],
+   "conditions": "指定海外串流影音平台（Netflix、Disney+、YouTube、Spotify、iTunes）10 倍活利積分（含原 1 倍），以 5,000 點等值 NT$200 換算約 1.6%。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/everyday/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "海外串流影音"
+  },
+  {
+   "id": "dbs_aov_spec",
+   "cardId": "dbs_aov",
+   "categories": [],
+   "brands": [
+    "蝦皮",
+    "淘寶",
+    "Uber Eats",
+    "foodpanda",
+    "Netflix",
+    "Disney+",
+    "YouTube Premium",
+    "Spotify",
+    "Steam",
+    "Nintendo",
+    "PlayStation",
+    "Garena"
+   ],
+   "rateMin": 1,
+   "rateMax": 10,
+   "unit": "現金積點",
+   "tip": "外送、串流、遊戲、蝦皮等精選通路最高 10%",
+   "steps": [
+    "以指定星展帳戶設定信用卡自動轉帳付款",
+    "結帳時刷傳說對決聯名卡"
+   ],
+   "conditions": "生活玩家精選通路（40+ 個，含遊戲儲值、售票、串流、網購、外送）最高 10%（含基本 1%＋加碼 9%），加碼每人每月上限 500 點；需以星展帳戶自動轉帳付款，指定通路以官網為準。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-aov/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "生活玩家精選通路",
+   "cap": "加碼每月上限 500 點",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "dbs_aov_general",
+   "cardId": "dbs_aov",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.2,
+   "rateMax": 1,
+   "unit": "現金積點",
+   "tip": "國內外一般消費最高 1%（需星展帳戶自動扣繳）",
+   "steps": [
+    "以指定星展帳戶設定自動轉帳付款"
+   ],
+   "conditions": "基本回饋 0.2%；以星展帳戶自動轉帳付款享國內外 1% 無上限；日韓泰新美歐實體消費 5%（加碼每月上限 500 點）。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-aov/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "dbs_lf_general",
+   "cardId": "dbs_livefresh",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.8,
+   "rateMax": 0.8,
+   "unit": "現金回饋",
+   "tip": "國內 0.8%、國外 2.5% 無上限",
+   "steps": [
+    "結帳時刷星展炫晶卡"
+   ],
+   "conditions": "國內一般消費 0.8%、國外 2.5% 現金回饋無上限，自動折抵次期帳單；當月刷 2 萬享次月停車 2 小時。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/default.page",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "dbs_tw_general",
+   "cardId": "dbs_travelworld",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.14,
+   "rateMax": 1.82,
+   "unit": "飛行積金（換算）",
+   "tip": "國內每 NT$22–35 累積 1 點飛行積金",
+   "steps": [
+    "結帳時刷星展飛行卡",
+    "飛行積金可轉亞洲萬里通、長榮、新航、華航哩程"
+   ],
+   "conditions": "世界商務卡：國內 NT$22、海外 NT$18＝1 點；飛行世界之極卡海外 NT$18＝1 點；飛行鈦金卡：國內 NT$35、海外 NT$20＝1 點。以 1 點＝1 哩計。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/travelworld/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "dbs_fun_wowprime",
+   "cardId": "dbs_funlife",
+   "categories": [],
+   "brands": [
+    "王品"
+   ],
+   "rateMin": 10,
+   "rateMax": 10,
+   "unit": "折扣",
+   "tip": "王品人氣品牌 9 折",
+   "steps": [
+    "出示並刷星展饗樂生活卡"
+   ],
+   "conditions": "王品集團人氣品牌平日天天 9 折（百貨、商場分店不適用），另享雙倍活利積分。品牌與使用條件以官網為準。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-funlife/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "王品集團",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "dbs_fun_vieshow",
+   "cardId": "dbs_funlife",
+   "categories": [],
+   "brands": [
+    "威秀影城"
+   ],
+   "rateMin": 17,
+   "rateMax": 40,
+   "unit": "折扣",
+   "tip": "威秀購票 6 折起",
+   "steps": [
+    "於威秀影城購票時刷星展饗樂生活卡"
+   ],
+   "conditions": "2D／3D／TITAN 平日 6 折（每日最多 2 張）、假日 83 折；IMAX 75 折。僅限電影票，特殊場次不適用。",
+   "sourceUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-funlife/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "威秀購票",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "hsbc_tr_general",
+   "cardId": "hsbc_traveler",
+   "categories": [],
+   "brands": [],
+   "rateMin": 2.0,
+   "rateMax": 2.22,
+   "unit": "旅遊積分（換算）",
+   "tip": "國內每 NT$18–20 累積 1 旅遊積分",
+   "steps": [
+    "結帳時刷滙豐旅人卡",
+    "旅遊積分可 1:1 轉航空哩程或兌換刷卡金"
+   ],
+   "conditions": "無限卡／御璽卡國內 NT$18、輕旅卡 NT$20＝1 點；海外無限卡 NT$10、御璽卡 NT$15、輕旅卡 NT$20＝1 點，回饋無上限。若兌換刷卡金，官網試算無限卡約國內 1.66%、海外 3%。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.hsbc.com.tw/zh-tw/credit-cards/products/travel/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "sc_ter_general",
+   "cardId": "scsb_teresa",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.8,
+   "rateMax": 0.8,
+   "unit": "現金回饋",
+   "tip": "一般消費 0.8% 無上限",
+   "steps": [
+    "結帳時刷 Teresa 卡"
+   ],
+   "conditions": "一般消費 0.8% 無上限；國內指定通路 3.8%（每戶每月上限 380 元，超過以 0.8% 計）；指定外幣消費 2%。指定通路以官網公告為準。",
+   "sourceUrl": "https://www.scsb.com.tw/content/card/card18.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sc_min_general",
+   "cardId": "scsb_minions",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.234,
+   "rateMax": 1.234,
+   "unit": "現金回饋",
+   "tip": "國內 1.234%、國外 2.234%",
+   "steps": [
+    "結帳時刷小小兵回饋卡"
+   ],
+   "conditions": "國內 1.234%、國外 2.234%；小小兵卡（回饋卡＋分期卡）每期帳單合計回饋上限 1,000 元。",
+   "sourceUrl": "https://www.scsb.com.tw/content/card/card_1110222.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "cap": "每期合計上限 1,000 元",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sc_min_usj",
+   "cardId": "scsb_minions",
+   "categories": [],
+   "brands": [
+    "環球影城"
+   ],
+   "rateMin": 10,
+   "rateMax": 10,
+   "unit": "現金回饋",
+   "tip": "全球環球影城最高 10%",
+   "steps": [
+    "在環球影城園區或官網刷小小兵回饋卡"
+   ],
+   "conditions": "商店名稱含「UNIVERSAL STUDIO」之一般消費 10%（含原回饋），每期帳單上限 500 元。",
+   "sourceUrl": "https://www.scsb.com.tw/content/card/card_1110222.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "環球影城",
+   "cap": "每期上限 500 元",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sc_min_cinema",
+   "cardId": "scsb_minions",
+   "categories": [],
+   "brands": [
+    "威秀影城",
+    "秀泰影城",
+    "新光影城",
+    "國賓影城",
+    "喜樂時代影城"
+   ],
+   "rateMin": 12,
+   "rateMax": 12,
+   "unit": "現金回饋",
+   "tip": "六大影城購票最高 12%",
+   "steps": [
+    "以上海商銀帳戶自動扣繳卡費",
+    "購票時刷小小兵回饋卡"
+   ],
+   "conditions": "威秀、秀泰、新光、國賓、in89、喜樂時代影城 12%（含原回饋），每期帳單上限 200 元；須以上海商銀帳戶自動扣繳信用卡款。",
+   "sourceUrl": "https://www.scsb.com.tw/content/card/card_1110222.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "六大影城",
+   "cap": "每期上限 200 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "yt_beer_general",
+   "cardId": "yuanta_beer",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "鑽金紅利",
+   "tip": "國內 0.5%、海外 1.5% 無上限（分期也有）",
+   "steps": [
+    "結帳時刷分享黑啤卡"
+   ],
+   "conditions": "國內一般消費 0.5%、海外 1.5% 鑽金紅利無上限（1 點＝1 元），國內分期最高 12 期 0 利率仍有回饋；分期以當期入帳金額計。",
+   "sourceUrl": "https://www.yuantabank.com.tw/bank/creditCard/creditCard/in.do?id=30ad9e1c99000007348f",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "yt_dia_general",
+   "cardId": "yuanta_diamond",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.2,
+   "rateMax": 1.2,
+   "unit": "現金回饋",
+   "tip": "國內 1.2%、海外 2.2% 無上限",
+   "steps": [
+    "結帳時刷元大鑽金卡"
+   ],
+   "conditions": "國內一般消費 1.2%、海外 2.2% 回饋無上限。",
+   "sourceUrl": "https://www.yuantabank.com.tw/bankwebIMG/event/Bank_Act2026/Card20260901/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "mg_e_online",
+   "cardId": "mega_esecond",
+   "categories": [
+    "online"
+   ],
+   "brands": [],
+   "rateMin": 2.5,
+   "rateMax": 3,
+   "unit": "現金回饋",
+   "tip": "網購不限通路 2.5–3%",
+   "steps": [
+    "網購結帳時刷 e 秒刷卡"
+   ],
+   "conditions": "國內外網購 2.5%（每期上限 200 元）；申辦電子帳單且以兆豐帳戶自動扣繳成功再加 0.5%（無上限）。第三方支付與面對面交易不算網購。",
+   "sourceUrl": "https://www.megabank.com.tw/personal/credit-card/card/overview/young",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "網購",
+   "cap": "2.5% 部分每期上限 200 元",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "mg_e_general",
+   "cardId": "mega_esecond",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "現金回饋",
+   "tip": "非網路一般消費 0.5%",
+   "steps": [
+    "結帳時刷 e 秒刷卡"
+   ],
+   "conditions": "非網路一般消費 0.5% 無上限；單筆滿 3,000 元自動分 3 期 0 利率（分期不回饋）。",
+   "sourceUrl": "https://www.megabank.com.tw/personal/credit-card/card/overview/young",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "mg_bt_general",
+   "cardId": "mega_bt21",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.3,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內 1%、國外 2%（需電子帳單）",
+   "steps": [
+    "申辦電子帳單並取消紙本",
+    "結帳時刷 BT21 卡"
+   ],
+   "conditions": "基本 0.3%＋電子帳單加碼 0.7%＝國內 1%；國外再加 1%＝2%（不含歐洲經濟區及英國）。完成任務綁 Apple Pay、Google Pay、台灣Pay、LINE Pay、街口、Samsung Pay 再加 2%（每期上限 200 元）。",
+   "sourceUrl": "https://www.megabank.com.tw/personal/credit-card/card/bt21creditcard",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "mg_next_general",
+   "cardId": "mega_nextbank",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷將來銀行聯名卡"
+   ],
+   "conditions": "新增一般消費 1% 現金回饋，無門檻、無通路限制、無上限；選擇無息分期的消費不回饋。",
+   "sourceUrl": "https://www.megabank.com.tw/personal/credit-card/card/next-bank",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "kg_es_eslite",
+   "cardId": "kgi_eslite",
+   "categories": [],
+   "brands": [
+    "誠品"
+   ],
+   "rateMin": 2.3,
+   "rateMax": 7,
+   "unit": "現金點",
+   "tip": "誠品店內最高 7%（依誠品會員等級）",
+   "steps": [
+    "以凱基帳戶自動扣繳卡費",
+    "結帳出示誠品會員並刷誠品聯名卡"
+   ],
+   "conditions": "黑卡會員 7%（0.3%＋自扣 2%＋誠品加碼 4.7%）、金卡 6%、白卡／非會員 2.3%；誠品加碼不含分期，部分門市第三方支付不回饋。",
+   "sourceUrl": "https://www.kgibank.com.tw/webpages/eslite-credit-card/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "誠品",
+   "cap": "自扣加碼上限 400 點／月；誠品加碼依等級",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "kg_es_general",
+   "cardId": "kgi_eslite",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.3,
+   "rateMax": 2.3,
+   "unit": "現金點",
+   "tip": "一般消費 0.3%，凱基帳戶自扣最高 2.3%",
+   "steps": [
+    "以凱基帳戶自動扣繳卡費"
+   ],
+   "conditions": "國內外一般消費 0.3% 無上限；以凱基帳戶自動扣繳卡費加碼 2%（不含保費，每月上限 400 點）。",
+   "sourceUrl": "https://www.kgibank.com.tw/webpages/eslite-credit-card/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "kg_dm_general",
+   "cardId": "kgi_dualmile",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.82,
+   "rateMax": 1.82,
+   "unit": "哩程點（換算）",
+   "tip": "每 NT$22 累積 1 哩",
+   "steps": [
+    "結帳時刷雙幣哩程卡"
+   ],
+   "conditions": "國內外一般消費（含保費）每 NT$22＝1 哩程點，每期上限 20,000 點；財管會員國內 NT$18、國外 NT$12＝1 點。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.kgibank.com.tw/webpages/dual-currency-mileage-credit-card/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_cash_online",
+   "cardId": "tcb_kanahei_cash",
+   "categories": [
+    "online"
+   ],
+   "brands": [],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "現金回饋",
+   "tip": "網購 3%",
+   "steps": [
+    "網購結帳時刷夢想鑽現卡"
+   ],
+   "conditions": "網購一般消費 3%（原 1%＋加碼 2%），分期以總額計，加碼每期上限 150 元。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/icash-kanahei",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "網購",
+   "cap": "加碼每期上限 150 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_cash_general",
+   "cardId": "tcb_kanahei_cash",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷夢想鑽現卡"
+   ],
+   "conditions": "國內外一般消費 1%，無門檻、無上限。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/icash-kanahei",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_pt_711",
+   "cardId": "tcb_kanahei_point",
+   "categories": [],
+   "brands": [
+    "7-ELEVEN"
+   ],
+   "rateMin": 4,
+   "rateMax": 4,
+   "unit": "OPENPOINT",
+   "tip": "7-ELEVEN 用 icash 付款最高 4%",
+   "steps": [
+    "當月先刷一筆 888 元以上國內消費",
+    "在 7-ELEVEN 用卡片 icash 功能付款"
+   ],
+   "conditions": "一般消費 1% OPENPOINT＋7-ELEVEN 以 icash2.0 扣款 3%（每月每卡上限 100 點）；自動加值金額本身不回饋。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei-2",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "7-ELEVEN",
+   "cap": "每月上限 100 點",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_pt_general",
+   "cardId": "tcb_kanahei_point",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "OPENPOINT",
+   "tip": "國內外一般消費 1% OP 點數",
+   "steps": [
+    "結帳時刷夢想鑽點卡"
+   ],
+   "conditions": "國內外一般消費 OPENPOINT 1% 回饋，無門檻、無上限。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei-2",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_ez_spec",
+   "cardId": "tcb_kanahei_easy",
+   "categories": [],
+   "brands": [
+    "Gogoro",
+    "GoShare",
+    "WeMo",
+    "Tesla",
+    "Nintendo",
+    "PlayStation",
+    "KKBOX",
+    "Netflix",
+    "Spotify",
+    "YouTube Premium",
+    "Disney+"
+   ],
+   "rateMin": 11,
+   "rateMax": 11,
+   "unit": "現金回饋",
+   "tip": "綠能、遊戲影音、行動支付各最高 11%",
+   "steps": [
+    "當期帳單一般消費滿 2,999 元",
+    "直接刷卡（非行動支付）"
+   ],
+   "conditions": "當期新增一般消費滿 2,999 元，三大通路加碼 10%（行動支付、綠能、遊戲影音各上限 100 元，合計 300 元）；綠能與遊戲影音用行動支付付款不加碼。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "綠能・遊戲影音",
+   "cap": "每通路每月上限 100 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_ez_general",
+   "cardId": "tcb_kanahei_easy",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷卡娜赫拉卡"
+   ],
+   "conditions": "國內外一般消費 1%，無門檻、無上限；悠遊卡自動加值不算一般消費。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_vr_spec",
+   "cardId": "tcb_kanahei_virtual",
+   "categories": [],
+   "brands": [
+    "Gogoro",
+    "GoShare",
+    "WeMo",
+    "Tesla",
+    "Nintendo",
+    "PlayStation",
+    "KKBOX",
+    "Netflix",
+    "Spotify",
+    "YouTube Premium",
+    "Disney+"
+   ],
+   "rateMin": 11,
+   "rateMax": 11,
+   "unit": "現金回饋",
+   "tip": "綠能、遊戲影音、行動支付各最高 11%",
+   "steps": [
+    "當期帳單一般消費滿 2,999 元",
+    "直接刷卡（非行動支付）"
+   ],
+   "conditions": "當期新增一般消費滿 2,999 元，三大通路加碼 10%（行動支付、綠能、遊戲影音各上限 100 元，合計 300 元）；綠能與遊戲影音用行動支付付款不加碼。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei--virtual",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "綠能・遊戲影音",
+   "cap": "每通路每月上限 100 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tc_vr_general",
+   "cardId": "tcb_kanahei_virtual",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷卡娜赫拉卡"
+   ],
+   "conditions": "國內外一般消費 1%，無門檻、無上限；悠遊卡自動加值不算一般消費。",
+   "sourceUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei--virtual",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "nx_dj_general",
+   "cardId": "next_dajiang",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.5,
+   "rateMax": 1.5,
+   "unit": "將來N點",
+   "tip": "完成任務國內 1.5%、海外 2.5% 無上限",
+   "steps": [
+    "完成任一任務：白金級財管會員、前月活存月均 30 萬台幣，或前月月均 5,000 美元",
+    "次月刷大將卡"
+   ],
+   "conditions": "完成三種任務之一，次月海外 2.5%、國內 1.5% 回饋無上限；簽帳金融卡直接從帳戶扣款。",
+   "sourceUrl": "https://www.nextbank.com.tw/announcement/4b262cbb0600000005db69481a78b4a4/news93",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ch_love_general",
+   "cardId": "chb_mylove",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "現金回饋",
+   "tip": "國內 0.5%、國外 1% 無上限",
+   "steps": [
+    "結帳時刷 My 樂卡"
+   ],
+   "conditions": "國內 0.5%、國外 1% 無上限；每月 1 日登錄後，以 LINE Pay、街口支付、Pi 拍錢包等指定錢包綁定消費享加碼（新卡加碼更高），條件以官網為準。",
+   "sourceUrl": "https://mylove.bankchb.com/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ch_go_intl",
+   "cardId": "chb_mygo",
+   "categories": [],
+   "brands": [
+    "Amazon",
+    "Agoda",
+    "Klook",
+    "Trip.com",
+    "iHerb"
+   ],
+   "rateMin": 6,
+   "rateMax": 6,
+   "unit": "現金回饋",
+   "tip": "Amazon、Agoda、Klook 等海外電商與旅遊平台 6%",
+   "steps": [
+    "線上結帳時刷 My 購卡"
+   ],
+   "conditions": "一般 1%＋網購 1%＋海外電商／旅遊平台加碼 4%；加碼合併每月上限 300 元。行動支付、第三方支付不適用。",
+   "sourceUrl": "https://www.bankchb.com/frontend/mashup.jsp?funcId=62aed72f16",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "海外電商・旅遊平台",
+   "cap": "加碼合併每月上限 300 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ch_go_media",
+   "cardId": "chb_mygo",
+   "categories": [],
+   "brands": [
+    "Disney+",
+    "Netflix",
+    "KKTV",
+    "KKBOX",
+    "Spotify",
+    "YouTube Premium",
+    "PlayStation",
+    "Nintendo",
+    "Steam",
+    "Garena",
+    "Blizzard",
+    "MyCard"
+   ],
+   "rateMin": 6,
+   "rateMax": 6,
+   "unit": "現金回饋",
+   "tip": "影音串流、遊戲平台 6%",
+   "steps": [
+    "線上結帳時刷 My 購卡"
+   ],
+   "conditions": "一般 1%＋網購 1%＋影音遊戲加碼 4%；加碼合併每月上限 300 元。",
+   "sourceUrl": "https://www.bankchb.com/frontend/mashup.jsp?funcId=62aed72f16",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "影音・遊戲",
+   "cap": "加碼合併每月上限 300 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ch_go_ec",
+   "cardId": "chb_mygo",
+   "categories": [],
+   "brands": [
+    "momo購物網",
+    "蝦皮",
+    "PChome",
+    "Yahoo購物中心"
+   ],
+   "rateMin": 2,
+   "rateMax": 4,
+   "unit": "現金回饋",
+   "tip": "momo、蝦皮、PChome 週六日 4%",
+   "steps": [
+    "週六、日線上結帳時刷 My 購卡"
+   ],
+   "conditions": "平日網購 2%；週六、日於 momo、蝦皮、PChome、Yahoo 奇摩購物再加 2%＝4%；加碼合併每月上限 300 元。",
+   "sourceUrl": "https://www.bankchb.com/frontend/mashup.jsp?funcId=62aed72f16",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "國內電商",
+   "cap": "加碼合併每月上限 300 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ch_go_online",
+   "cardId": "chb_mygo",
+   "categories": [
+    "online"
+   ],
+   "brands": [],
+   "rateMin": 2,
+   "rateMax": 2,
+   "unit": "現金回饋",
+   "tip": "網購 2%",
+   "steps": [
+    "線上結帳時刷 My 購卡"
+   ],
+   "conditions": "一般 1%＋網購加碼 1%；保費、電信、超商、第三方支付等不列入網購。",
+   "sourceUrl": "https://www.bankchb.com/frontend/mashup.jsp?funcId=62aed72f16",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "網購",
+   "cap": "加碼合併每月上限 300 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ch_go_general",
+   "cardId": "chb_mygo",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷 My 購卡"
+   ],
+   "conditions": "國內外一般消費 1% 現金回饋無上限。",
+   "sourceUrl": "https://www.bankchb.com/frontend/mashup.jsp?funcId=62aed72f16",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "rk_tiger_air",
+   "cardId": "rakuten_tiger",
+   "categories": [],
+   "brands": [
+    "台灣虎航"
+   ],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "刷卡金＋tigerpoints",
+   "tip": "台灣虎航官網、APP 3%",
+   "steps": [
+    "在台灣虎航官網或 APP 刷樂虎卡"
+   ],
+   "conditions": "國內 0.5% 刷卡金＋指定通路（LINE Pay、街口支付、台灣虎航）加碼 2.5% tigerpoints（每期上限 500 點）。",
+   "sourceUrl": "https://www.card.rakuten.com.tw/corp/ads/15.xhtml",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "台灣虎航",
+   "cap": "加碼每期上限 500 點",
+   "startsOn": "2026-01-07",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "rk_tiger_general",
+   "cardId": "rakuten_tiger",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "刷卡金",
+   "tip": "國內 0.5%、日韓實體 2% 無上限",
+   "steps": [
+    "結帳時刷樂虎卡"
+   ],
+   "conditions": "國內一般消費 0.5% 刷卡金無上限；日本、韓國實體消費 2% 無上限；綁 LINE Pay、街口支付再加 2.5% tigerpoints（每期上限 500 點）。",
+   "sourceUrl": "https://www.card.rakuten.com.tw/corp/ads/15.xhtml",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-07",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "rk_soar_general",
+   "cardId": "rakuten_soar",
+   "categories": [],
+   "brands": [],
+   "rateMin": 2.22,
+   "rateMax": 2.22,
+   "unit": "樂翔積分（換算）",
+   "tip": "國內每 NT$18 累積 1 點",
+   "steps": [
+    "結帳時刷樂翔卡"
+   ],
+   "conditions": "國內 NT$18＝1 點；海外無限卡 NT$6、御璽卡 NT$12＝1 點（依官網申辦頁，至 2027/6/30）。以 1 點＝1 哩計。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.card.rakuten.com.tw/corp/ads/11.xhtml",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "endsOn": "2027-06-30"
+  },
+  {
+   "id": "ob_or_spec",
+   "cardId": "obank_orange",
+   "categories": [],
+   "brands": [
+    "Uber Eats",
+    "foodpanda",
+    "新光三越",
+    "SOGO",
+    "遠東百貨",
+    "拓元售票",
+    "寬宏售票",
+    "KKTIX",
+    "年代售票",
+    "一蘭",
+    "壽司郎",
+    "爭鮮"
+   ],
+   "rateMin": 1,
+   "rateMax": 3.8,
+   "unit": "現金回饋",
+   "tip": "外送、百貨、餐廳、購票最高 3.8%",
+   "steps": [
+    "消費當月最後一天王道活存維持 10 萬以上",
+    "刷 O! Range 卡"
+   ],
+   "conditions": "完成任務後指定通路加碼 2.8%（每月上限 500 元）：外送 Uber Eats、foodpanda；實體百貨（新光三越、SOGO、遠東百貨等，百貨內專櫃餐廳依 MCC）；餐飲 MCC 商店；購票（拓元、寬宏、KKTIX、年代等）。百貨餐飲與購票不適用行動支付。",
+   "sourceUrl": "https://www.o-bank.com/web/event/o-range-card/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "外送・百貨・餐飲・購票",
+   "cap": "加碼每月上限 500 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ob_or_general",
+   "cardId": "obank_orange",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷 O! Range 卡"
+   ],
+   "conditions": "不限金額、不分國內外一般消費 1%，回饋入王道存款帳戶。",
+   "sourceUrl": "https://www.o-bank.com/web/event/o-range-card/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "fb_vb_spec",
+   "cardId": "firstbank_visabiz",
+   "categories": [],
+   "brands": [
+    "台灣高鐵",
+    "台灣中油",
+    "星巴克",
+    "Agoda",
+    "台鐵",
+    "台灣大車隊"
+   ],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "現金回饋",
+   "tip": "高鐵、中油直營、星巴克、Agoda 3%",
+   "steps": [
+    "登錄活動",
+    "結帳時刷御璽商旅卡"
+   ],
+   "conditions": "精選通路（機票、Agoda 等訂房網、高鐵、台鐵、台灣大車隊、中油、星巴克）3%；精選通路回饋需登錄，每期上限依官網公告。",
+   "sourceUrl": "https://card.firstbank.com.tw/sites/Satellite?c=CreditCard&cid=1565690685615&d=Touch&pagename=FirstBankCard%2FCreditCard%2Fzh%2FCreditCardDetailView",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "精選通路"
+  },
+  {
+   "id": "fb_vb_general",
+   "cardId": "firstbank_visabiz",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.6,
+   "rateMax": 1,
+   "unit": "現金回饋",
+   "tip": "國內 0.6–1%（依當期消費級距）",
+   "steps": [
+    "結帳時刷御璽商旅卡"
+   ],
+   "conditions": "當期國內一般消費 10 萬以內 0.6%、10–100 萬 0.8%、100 萬以上 1%；海外外幣實體消費 3% 無上限。",
+   "sourceUrl": "https://card.firstbank.com.tw/sites/Satellite?c=CreditCard&cid=1565704100960&d=Touch&pagename=FirstBankCard%2FCreditCard%2Fzh%2FCardActivityDetailView",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "fb_ty_spec",
+   "cardId": "firstbank_taoyuan",
+   "categories": [],
+   "brands": [
+    "Uber Eats",
+    "foodpanda",
+    "麥當勞",
+    "肯德基",
+    "必勝客",
+    "達美樂",
+    "星巴克",
+    "路易莎"
+   ],
+   "rateMin": 3,
+   "rateMax": 5,
+   "unit": "刷卡金",
+   "tip": "外送、速食、咖啡最高 5%",
+   "steps": [
+    "申請電子帳單並登錄活動",
+    "單筆滿 300 元刷桃園卡"
+   ],
+   "conditions": "精選通路單筆 300 元以上：桃園市市民卡聯名卡 5%（加油類 3%）、桃園市認同卡 3%，每戶每期上限 300 元；需電子帳單並登錄（限 2 萬名）。",
+   "sourceUrl": "https://card.firstbank.com.tw/sites/Satellite?c=CreditCard&cid=1565691695422&d=Touch&pagename=FirstBankCard%2FCreditCard%2Fzh%2FCardActivityDetailView",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "精選通路",
+   "cap": "每期上限 300 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "fb_ty_fuel",
+   "cardId": "firstbank_taoyuan",
+   "categories": [
+    "fuel"
+   ],
+   "brands": [],
+   "rateMin": 3,
+   "rateMax": 3,
+   "unit": "刷卡金",
+   "tip": "加油 3%",
+   "steps": [
+    "申請電子帳單並登錄活動",
+    "單筆滿 300 元刷桃園卡"
+   ],
+   "conditions": "不限品牌加油站單筆 300 元以上 3%（市民卡與認同卡皆 3%），與精選通路合併每期上限 300 元。",
+   "sourceUrl": "https://card.firstbank.com.tw/sites/Satellite?c=CreditCard&cid=1565691695422&d=Touch&pagename=FirstBankCard%2FCreditCard%2Fzh%2FCardActivityDetailView",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "加油",
+   "cap": "每期上限 300 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "ax_pc_general",
+   "cardId": "amex_platcredit",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.33,
+   "rateMax": 1.33,
+   "unit": "積分（換算）",
+   "tip": "每 NT$30 累積 1 積分",
+   "steps": [
+    "結帳時刷信用白金卡"
+   ],
+   "conditions": "每消費 NT$30＝1 積分，持卡期間有效，可 1:1 轉航空哩程。以 1 積分＝1 哩計。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.americanexpress.com/zh-tw/credit-cards/grcc-plat/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ax_pl_general",
+   "cardId": "amex_platcharge",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.33,
+   "rateMax": 1.33,
+   "unit": "積分（換算）",
+   "tip": "每 NT$30 累積 1 積分",
+   "steps": [
+    "結帳時刷簽帳白金卡"
+   ],
+   "conditions": "單筆每滿 NT$30＝1「會員酬賓」積分，可 1:1 兌換五大航空哩程。以 1 積分＝1 哩計。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.americanexpress.com/zh-tw/charge-cards/plat/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ax_gd_general",
+   "cardId": "amex_gold",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.33,
+   "rateMax": 1.33,
+   "unit": "積分（換算）",
+   "tip": "每 NT$30 累積 1 積分",
+   "steps": [
+    "結帳時刷耀金卡"
+   ],
+   "conditions": "每消費 NT$30＝1 積分（哩），可 1:1 轉航空哩程；星巴克、Uber Eats、Klook、Expedia 指定消費登錄另享刷卡金（年度最高 4,400 元）。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.americanexpress.com/zh-tw/charge-cards/gold/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ax_ep_eva",
+   "cardId": "amex_evaplat",
+   "categories": [],
+   "brands": [
+    "長榮航空"
+   ],
+   "rateMin": 2.4,
+   "rateMax": 2.4,
+   "unit": "哩程（換算）",
+   "tip": "長榮機票、長榮假期每 NT$25＝1.5 哩",
+   "steps": [
+    "刷簽帳白金卡購買長榮機票",
+    "行程完成後 3 個月內 Email 機票影本申請加碼"
+   ],
+   "conditions": "基本每 NT$25＝1 哩，購買長榮機票、長榮假期加碼 50%（需 Email 申請）；海外消費自動加碼 50%。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.americanexpress.com/zh-tw/charge-cards/eva-plat/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "長榮航空"
+  },
+  {
+   "id": "ax_ep_general",
+   "cardId": "amex_evaplat",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.6,
+   "rateMax": 1.6,
+   "unit": "哩程（換算）",
+   "tip": "每 NT$25 累積 1 哩，海外再加 50%",
+   "steps": [
+    "結帳時刷長榮簽帳白金卡"
+   ],
+   "conditions": "單筆每滿 NT$25＝1 哩，每月自動轉入無限萬哩遊；海外消費加碼 50%（約 NT$16.7＝1 哩）。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.americanexpress.com/zh-tw/charge-cards/eva-plat/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "ax_eg_eva",
+   "cardId": "amex_evagold",
+   "categories": [],
+   "brands": [
+    "長榮航空"
+   ],
+   "rateMin": 2.67,
+   "rateMax": 2.67,
+   "unit": "哩程（換算）",
+   "tip": "長榮機票、長榮假期最優 NT$15＝1 哩",
+   "steps": [
+    "刷長榮簽帳金卡購買長榮機票"
+   ],
+   "conditions": "海外消費、長榮機票、長榮假期每月首 2,000 哩最優 NT$15＝1 哩（基本 NT$25＋加碼 67%），超過以 NT$25＝1 哩計。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.americanexpress.com/zh-tw/charge-cards/eva-gold/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "長榮航空",
+   "cap": "加碼限每月首 2,000 哩"
+  },
+  {
+   "id": "ax_eg_general",
+   "cardId": "amex_evagold",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1.6,
+   "rateMax": 2.0,
+   "unit": "哩程（換算）",
+   "tip": "國內每月首 2,000 哩最優 NT$20＝1 哩",
+   "steps": [
+    "結帳時刷長榮簽帳金卡"
+   ],
+   "conditions": "基本 NT$25＝1 哩；國內消費每月首 2,000 哩加碼 25%（最優 NT$20＝1 哩），海外加碼 67%（最優 NT$15＝1 哩），免登錄。哩程以 1 哩約 NT$0.4 換算成回饋率，實際價值依兌換方式而定。",
+   "sourceUrl": "https://www.americanexpress.com/zh-tw/charge-cards/eva-gold/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "tb_ip_transit",
+   "cardId": "tbb_sus_ipass",
+   "categories": [
+    "transit"
+   ],
+   "brands": [
+    "台鐵",
+    "捷運",
+    "YouBike",
+    "GoShare",
+    "WeMo",
+    "iRent",
+    "Gogoro"
+   ],
+   "rateMin": 0.5,
+   "rateMax": 10,
+   "unit": "現金回饋",
+   "tip": "台鐵、捷運、YouBike、共享機車最高 10%",
+   "steps": [
+    "登錄活動",
+    "當期一般消費滿 6,000 元"
+   ],
+   "conditions": "綠色交通（共享汽機車、台鐵、客運、捷安特／美利達、充電、電池資費，及以一卡通支付的 YouBike、捷運、公車、渡輪）加碼 9.5%，每戶每月上限 300 元；透過第三方支付可能無法辨識。",
+   "sourceUrl": "https://www.tbb.com.tw/web/guest/-66",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "綠色交通",
+   "cap": "加碼每月上限 300 元",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tb_ip_general",
+   "cardId": "tbb_sus_ipass",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 1.5,
+   "unit": "現金回饋",
+   "tip": "國內 0.5%、國外 1.5% 無上限（Hokii 會員最高國內 1.5%）",
+   "steps": [
+    "結帳時刷永續生活卡"
+   ],
+   "conditions": "國內 0.5%、國外 1.5% 無上限；Hokii 數位會員當期消費滿 6,000 元並以臺企帳戶自扣，依帳戶類型加碼 0.3–1%（月上限 100–350 元）；台灣Pay 掃碼再加 1.5%（月上限 100 元）。",
+   "sourceUrl": "https://www.tbb.com.tw/web/guest/-66",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "tb_ez_general",
+   "cardId": "tbb_sus_easy",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 1.5,
+   "unit": "現金回饋",
+   "tip": "國內 0.5%、國外 1.5% 無上限（Hokii 會員最高國內 1.5%）",
+   "steps": [
+    "結帳時刷永續生活卡"
+   ],
+   "conditions": "國內 0.5%、國外 1.5% 無上限；Hokii 數位會員當期消費滿 6,000 元並以臺企帳戶自扣，依帳戶類型加碼 0.3–1%（月上限 100–350 元）；台灣Pay 掃碼再加 1.5%（月上限 100 元）。",
+   "sourceUrl": "https://www.tbb.com.tw/web/guest/-34",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "bt_gg_green",
+   "cardId": "bot_greengo",
+   "categories": [],
+   "brands": [
+    "台灣高鐵",
+    "台鐵",
+    "Uber",
+    "Gogoro",
+    "iRent",
+    "GoShare",
+    "WeMo",
+    "成真咖啡",
+    "里仁"
+   ],
+   "rateMin": 6,
+   "rateMax": 6,
+   "unit": "刷卡金",
+   "tip": "高鐵、台鐵、Uber、Gogoro、iRent 等最高 6%",
+   "steps": [
+    "申辦電子帳單、臺銀帳戶自動扣繳並綁定台灣Pay",
+    "結帳時刷綠行卡"
+   ],
+   "conditions": "國內 1%＋綠色通路或低碳出行加碼 5%（擇優）；綠色消費加碼每月上限新戶 500 元、舊戶 300 元。指定通路以官網公告為準。",
+   "sourceUrl": "https://wwwap.bot.com.tw/greengocard/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "綠色通路・低碳出行",
+   "cap": "加碼每月上限 300–500 元",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "bt_gg_general",
+   "cardId": "bot_greengo",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 1,
+   "unit": "刷卡金",
+   "tip": "國內 1%、海外 2.2% 無上限",
+   "steps": [
+    "申辦電子帳單並以臺銀帳戶自動扣繳"
+   ],
+   "conditions": "國內一般消費需電子帳單＋臺銀帳戶自扣才有 1%（否則 0.5%）；海外 2.2% 無上限；當月消費滿 15,000 元再加 1%（月上限 100 元）。",
+   "sourceUrl": "https://wwwap.bot.com.tw/greengocard/",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "hn_rich_general",
+   "cardId": "hncb_rich",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 4,
+   "unit": "現金回饋＋儲蓄點數",
+   "tip": "國內 1% 無上限，理財等級最高再加 3%",
+   "steps": [
+    "結帳時刷 Rich+ 富家卡",
+    "定期定額等理財達門檻可升等"
+   ],
+   "conditions": "國內 1%、海外 2% 現金回饋無上限；儲蓄點數小富家 1%（上限 500 點）、大富家 2%（上限 3,000 點）、鉅富家 3%（上限 10,000 點），需持有理財商品；特約商店分期不回饋。",
+   "sourceUrl": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/cash_feedback_card/card_rich_plus",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-11-30"
+  },
+  {
+   "id": "fe_happy_spec",
+   "cardId": "feib_happy",
+   "categories": [],
+   "brands": [
+    "SOGO",
+    "遠東百貨",
+    "愛買"
+   ],
+   "rateMin": 5,
+   "rateMax": 5,
+   "unit": "刷卡金",
+   "tip": "SOGO、遠百、愛買最高 5%",
+   "steps": [
+    "當月登錄活動",
+    "結帳時刷快樂卡"
+   ],
+   "conditions": "指定日常通路最高 5%，每月每戶上限 300 元，須當月登錄當月刷卡（每月限 10,000 名）；通路以官網公告為準。",
+   "sourceUrl": "https://www.feib.com.tw/upload/creditcard/HappyCardRed/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "遠東集團通路",
+   "cap": "每月上限 300 元",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "fe_ya_pet",
+   "cardId": "feib_yajia",
+   "categories": [],
+   "brands": [
+    "寵物公園"
+   ],
+   "rateMin": 10,
+   "rateMax": 10,
+   "unit": "刷卡金",
+   "tip": "寵物用品、動物醫院最高 10%",
+   "steps": [
+    "結帳時刷樂家+卡"
+   ],
+   "conditions": "指定寵物通路與動物醫院 10%（原 0.5%＋加碼 9.5%），加碼每戶每月上限 400 元；限實體門市及官方網站／App。",
+   "sourceUrl": "https://www.feib.com.tw/upload/creditcard/ApplyCard/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "寵物",
+   "cap": "加碼每月上限 400 元",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "fe_ya_life",
+   "cardId": "feib_yajia",
+   "categories": [],
+   "brands": [
+    "大樹藥局",
+    "杏一",
+    "誠品"
+   ],
+   "rateMin": 4,
+   "rateMax": 4,
+   "unit": "刷卡金",
+   "tip": "大樹藥局、杏一、誠品最高 4%",
+   "steps": [
+    "以遠銀帳戶自動扣繳卡費",
+    "次期帳單一般消費滿 3,000 元"
+   ],
+   "conditions": "指定生活商店一次付清最高 4%（原 0.5%＋加碼 3.5%），加碼每期每戶上限 200 元；餐廳類排除百貨美食街與飯店內餐廳。",
+   "sourceUrl": "https://www.feib.com.tw/upload/creditcard/ApplyCard/index.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "藥局・誠品",
+   "cap": "加碼每期上限 200 元",
+   "startsOn": "2026-07-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "fe_ya_general",
+   "cardId": "feib_yajia",
+   "categories": [],
+   "brands": [],
+   "rateMin": 0.5,
+   "rateMax": 0.5,
+   "unit": "現金回饋",
+   "tip": "一般消費 0.5%、海外最高 2.5%",
+   "steps": [
+    "結帳時刷樂家+卡"
+   ],
+   "conditions": "遠東集團以外一般消費 0.5% 無上限；海外消費最高 2.5%（不含歐洲指定國家實體商店）；遠東集團通路回饋 HAPPY GO 點數。",
+   "sourceUrl": "https://www.feib.com.tw/upload/creditcard/YACard/page2.html",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費"
+  },
+  {
+   "id": "sn_jcb_delivery",
+   "cardId": "sunny_jcb",
+   "categories": [],
+   "brands": [
+    "Uber Eats",
+    "foodpanda"
+   ],
+   "rateMin": 5,
+   "rateMax": 5,
+   "unit": "現金紅利點數",
+   "tip": "Uber Eats、foodpanda 5%",
+   "steps": [
+    "結帳時刷陽信 JCB 晶緻卡"
+   ],
+   "conditions": "基本 1%＋行動支付與外送平台加碼 4%，加碼每月上限 300 點（1 點＝1 元）；限台灣境內新臺幣交易。",
+   "sourceUrl": "https://www.sunnybank.com.tw/net/Page/Tmenu/500",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "外送",
+   "cap": "加碼每月上限 300 點",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
+  },
+  {
+   "id": "sn_jcb_general",
+   "cardId": "sunny_jcb",
+   "categories": [],
+   "brands": [],
+   "rateMin": 1,
+   "rateMax": 1,
+   "unit": "現金紅利點數",
+   "tip": "國內外一般消費 1% 無上限",
+   "steps": [
+    "結帳時刷陽信 JCB 晶緻卡"
+   ],
+   "conditions": "國內外一般消費 1% 無上限；日本、韓國、泰國 3% 無上限；綁 LINE Pay、街口支付、悠遊付等行動支付最高 5%（加碼月上限 300 點）。",
+   "sourceUrl": "https://www.sunnybank.com.tw/net/Page/Tmenu/500",
+   "verified": true,
+   "checkedAt": "2026-11-09",
+   "scope": "一般消費",
+   "startsOn": "2026-01-01",
+   "endsOn": "2026-12-31"
   }
  ],
  "brands": [
@@ -4668,6 +6832,14 @@
     "friDay購物X GoHappy"
    ],
    "category": "online"
+  },
+  {
+   "name": "環球影城",
+   "aliases": [
+    "Universal Studios",
+    "UNIVERSAL STUDIO"
+   ],
+   "category": "entertainment"
   },
   {
    "name": "SKM Park",
@@ -4954,6 +7126,13 @@
    "category": "entertainment"
   },
   {
+   "name": "必勝客",
+   "aliases": [
+    "Pizza Hut"
+   ],
+   "category": "dining"
+  },
+  {
    "name": "秀泰影城",
    "aliases": [
     "秀泰",
@@ -5036,6 +7215,13 @@
     "暴雪"
    ],
    "category": "gaming"
+  },
+  {
+   "name": "達美樂",
+   "aliases": [
+    "Domino's"
+   ],
+   "category": "dining"
   },
   {
    "name": "萊爾富",
@@ -5211,6 +7397,13 @@
    "name": "LINE TV",
    "aliases": [],
    "category": "entertainment"
+  },
+  {
+   "name": "YouBike",
+   "aliases": [
+    "微笑單車"
+   ],
+   "category": "transit"
   },
   {
    "name": "好市多",
@@ -5785,6 +7978,11 @@
    "name": "KKTV",
    "aliases": [],
    "category": "entertainment"
+  },
+  {
+   "name": "成真咖啡",
+   "aliases": [],
+   "category": "dining"
   },
   {
    "name": "大全聯",
