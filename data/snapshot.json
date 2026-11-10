@@ -1169,9 +1169,9 @@
    "networks": [
     "VISA"
    ],
-   "networksVerified": false,
    "summary": "以星展帳戶自動扣繳：國內外 1% 無上限、日韓泰新美歐 5%、40+ 生活玩家精選通路最高 10%。",
    "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-aov/index.html",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1208,9 +1208,9 @@
    "networks": [
     "VISA"
    ],
-   "networksVerified": false,
    "summary": "一般消費每 NT$30＝1 點活利積分；王品人氣品牌 9 折、威秀購票 6 折起，王品指定餐廳與威秀雙倍積分。",
    "officialUrl": "https://www.dbs.com.tw/personal-zh/cards/dbs-funlife/index.html",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1245,11 +1245,11 @@
    "bankId": "scsb",
    "name": "上海商銀小小兵回饋卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "國內 1.234%、國外 2.234%；全球環球影城最高 10%；六大國內影城最高 12%。",
    "officialUrl": "https://www.scsb.com.tw/content/card/card_1110222.html",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1258,11 +1258,11 @@
    "bankId": "scsb",
    "name": "上海商銀小小兵分期卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "單筆滿 3 千自動分 3 期 0 利率（自扣可分 6 期）；國外消費 1.5% 回饋，國內消費不回饋。",
    "officialUrl": "https://www.scsb.com.tw/content/card/card_1110222-2.html",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1273,9 +1273,9 @@
    "networks": [
     "VISA"
    ],
-   "networksVerified": false,
    "summary": "國內商店最高 12 期 0 利率再享 0.5%、海外 8 期 0 利率再享 1.5% 鑽金紅利無上限；直式卡面。",
    "officialUrl": "https://www.yuantabank.com.tw/bank/creditCard/creditCard/in.do?id=30ad9e1c99000007348f",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1314,9 +1314,9 @@
    "networks": [
     "VISA"
    ],
-   "networksVerified": false,
    "summary": "國內 1%、國外 2% 無上限（含電子帳單加碼）；完成任務綁指定支付再加 2%。",
    "officialUrl": "https://www.megabank.com.tw/personal/credit-card/card/bt21creditcard",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1340,9 +1340,9 @@
    "networks": [
     "VISA"
    ],
-   "networksVerified": false,
    "summary": "一般消費 0.3%，凱基帳戶自扣再加 2%；誠品店內依會員等級加碼最高 4.7%，合計最高 7%。",
    "officialUrl": "https://www.kgibank.com.tw/webpages/eslite-credit-card/index.html",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1378,11 +1378,11 @@
    "bankId": "tcb",
    "name": "卡娜赫拉的小動物icash聯名卡（夢想鑽現卡）",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "國內外一般消費 1% 無上限；網購 3%（加碼每期上限 150 元）。",
    "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/icash-kanahei",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1391,11 +1391,11 @@
    "bankId": "tcb",
    "name": "卡娜赫拉的小動物icash聯名卡（夢想鑽點卡）",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "國內外一般消費 OPENPOINT 1% 無上限；7-ELEVEN 用 icash 消費再享 3%。",
    "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei-2",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1404,11 +1404,11 @@
    "bankId": "tcb",
    "name": "卡娜赫拉的小動物悠遊聯名卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "國內外 1% 無上限；當期消費滿 2,999 元，行動支付、綠能、遊戲影音三大通路各加碼 10%。",
    "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1417,11 +1417,11 @@
    "bankId": "tcb",
    "name": "卡娜赫拉的小動物無實體卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "僅供網路交易與行動支付；國內外 1% 無上限，三大通路加碼 10%（同悠遊聯名卡）。",
    "officialUrl": "https://www.tcb-bank.com.tw/personal-banking/credit-card/intro/overview/kanahei--virtual",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1456,11 +1456,11 @@
    "bankId": "chb",
    "name": "彰銀My樂卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "國內 0.5%、國外 1% 無上限；每月 1 日登錄，指定錢包綁 My 樂卡最高 9%。",
    "officialUrl": "https://mylove.bankchb.com/",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1508,11 +1508,11 @@
    "bankId": "obank",
    "name": "王道O! Range卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "簽帳金融卡：國內外一般消費 1% 無上限；活存月底 10 萬以上，指定支付、外送、百貨餐飲、購票加碼 2.8%。",
    "officialUrl": "https://www.o-bank.com/web/event/o-range-card/index.html",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1521,11 +1521,11 @@
    "bankId": "firstbank",
    "name": "第一銀行icash聯名卡",
    "networks": [
-    "VISA"
+    "JCB"
    ],
-   "networksVerified": false,
    "summary": "官網標示新卡友日本韓國 5%、統一超商與指定餐飲 10%；附 icash2.0，條件請見官網。",
    "officialUrl": "https://card.firstbank.com.tw/sites/card/touch/1565690685468",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1625,11 +1625,11 @@
    "bankId": "tbb",
    "name": "臺灣企銀永續生活一卡通",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "國內 0.5%、國外 1.5% 無上限；當期消費滿 6,000 元並登錄，綠色交通最高 10%（加碼月上限 300 元）。",
    "officialUrl": "https://www.tbb.com.tw/web/guest/-66",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1638,11 +1638,11 @@
    "bankId": "tbb",
    "name": "臺灣企銀永續生活悠遊卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "國內 0.5%、國外 1.5% 無上限；當期消費滿 6,000 元並登錄，指定綠色餐廳／戶外用品／生機商店最高 10%。",
    "officialUrl": "https://www.tbb.com.tw/web/guest/-34",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1704,11 +1704,11 @@
    "bankId": "feib",
    "name": "遠東樂家+卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "一般消費 0.5% 無上限、海外最高 2.5%；寵物通路最高 10%；遠銀自扣達檻，藥局、誠品、餐廳等最高 4%。",
    "officialUrl": "https://www.feib.com.tw/upload/creditcard/YACard/page2.html",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
@@ -1717,11 +1717,11 @@
    "bankId": "feib",
    "name": "遠東樂行卡",
    "networks": [
-    "VISA"
+    "Mastercard"
    ],
-   "networksVerified": false,
    "summary": "遠銀帳戶自扣、刷滿額享指定交通與旅遊最高 3% 刷卡金；條件請見官網。",
    "officialUrl": "https://ecard.feib.com.tw/Activity/2026H1CCAutoPay/",
+   "networksVerified": true,
    "rightsSwitch": false,
    "issuance": ""
   },
